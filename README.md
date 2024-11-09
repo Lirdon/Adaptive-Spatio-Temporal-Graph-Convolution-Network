@@ -28,3 +28,5 @@ The detailed research paper describing this model, its architecture, and applica
 
    ```bash
    git clone https://github.com/Lirdon/Structure_Optimized_Temporal_Adapted_Graph_Learning.git
+Run the Model: To start the model, simply run main.py:
+python main.py
