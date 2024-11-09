@@ -1,0 +1,27 @@
+2024-10-01 01:30:50,369 - main - INFO - Epoch: 001 | Train loss: 0.519182 | Val loss: 0.367642 |
+2024-10-01 01:30:51,002 - main - INFO - Model saved at checkpoint/model_epoch_20241001_013050_1.pth
+2024-10-01 01:45:31,842 - main - INFO - Epoch: 002 | Train loss: 0.390838 | Val loss: 0.326234 |
+2024-10-01 01:45:32,514 - main - INFO - Model saved at checkpoint/model_epoch_20241001_014531_2.pth
+2024-10-01 02:00:08,935 - main - INFO - Epoch: 003 | Train loss: 0.368433 | Val loss: 0.329572 |
+2024-10-01 02:00:08,957 - main - INFO - *******patience:0*********
+2024-10-01 02:14:53,870 - main - INFO - Epoch: 004 | Train loss: 0.357202 | Val loss: 0.309126 |
+2024-10-01 02:14:54,462 - main - INFO - Model saved at checkpoint/model_epoch_20241001_021453_4.pth
+2024-10-01 02:29:04,532 - main - INFO - Epoch: 005 | Train loss: 0.348350 | Val loss: 0.316703 |
+2024-10-01 02:29:04,560 - main - INFO - *******patience:0*********
+2024-10-01 02:42:55,417 - main - INFO - Epoch: 006 | Train loss: 0.344097 | Val loss: 0.312924 |
+2024-10-01 02:42:55,456 - main - INFO - *******patience:1*********
+2024-10-01 02:57:00,422 - main - INFO - Epoch: 007 | Train loss: 0.340236 | Val loss: 0.309789 |
+2024-10-01 02:57:00,471 - main - INFO - *******patience:2*********
+2024-10-01 03:11:02,668 - main - INFO - Epoch: 008 | Train loss: 0.336951 | Val loss: 0.311826 |
+2024-10-01 03:11:02,700 - main - INFO - *******patience:3*********
+2024-10-01 03:25:03,186 - main - INFO - Epoch: 009 | Train loss: 0.334151 | Val loss: 0.312095 |
+2024-10-01 03:25:03,191 - main - INFO - *******patience:4*********
+2024-10-01 03:38:36,387 - main - INFO - Epoch: 010 | Train loss: 0.330940 | Val loss: 0.313295 |
+2024-10-01 03:38:36,411 - main - INFO - *******patience:5*********
+2024-10-01 03:52:12,179 - main - INFO - Epoch: 011 | Train loss: 0.331276 | Val loss: 0.315325 |
+2024-10-01 03:52:12,195 - main - INFO - *******patience:6*********
+2024-10-01 04:06:36,032 - main - INFO - Epoch: 012 | Train loss: 0.331237 | Val loss: 0.315494 |
+2024-10-01 04:06:36,064 - main - INFO - *******patience:7*********
+2024-10-01 04:06:36,065 - main - INFO - Early stopping.
+2024-10-01 04:07:20,728 - main - INFO - Loss 0.043718 
+steam_MAPE 0.161321 | electricity_MAPE 1.432596 | compressed_air_MAPE 0.274976 | generator_MAPE 0.004419 | compressor_MAPE 0.002608

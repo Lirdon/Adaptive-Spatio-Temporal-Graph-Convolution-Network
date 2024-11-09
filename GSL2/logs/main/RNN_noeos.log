@@ -1,0 +1,23 @@
+2024-10-07 21:46:32,020 - main - INFO - Epoch: 001 | Train loss: 1.305111 | Val loss: 1.287103 |
+2024-10-07 21:46:32,190 - main - INFO - Model saved at checkpoint/model_epoch_20241007_214632_1.pth
+2024-10-07 21:50:58,713 - main - INFO - Epoch: 002 | Train loss: 1.101088 | Val loss: 1.238216 |
+2024-10-07 21:50:58,886 - main - INFO - Model saved at checkpoint/model_epoch_20241007_215058_2.pth
+2024-10-07 21:55:51,882 - main - INFO - Epoch: 003 | Train loss: 1.000640 | Val loss: 1.243367 |
+2024-10-07 21:55:51,887 - main - INFO - *******patience:0*********
+2024-10-07 22:00:18,504 - main - INFO - Epoch: 004 | Train loss: 0.926145 | Val loss: 1.260794 |
+2024-10-07 22:00:18,512 - main - INFO - *******patience:1*********
+2024-10-07 22:08:32,021 - main - INFO - Epoch: 005 | Train loss: 0.873875 | Val loss: 1.271323 |
+2024-10-07 22:08:32,182 - main - INFO - *******patience:2*********
+2024-10-07 22:13:58,790 - main - INFO - Epoch: 006 | Train loss: 0.830857 | Val loss: 1.279320 |
+2024-10-07 22:13:58,792 - main - INFO - *******patience:3*********
+2024-10-07 22:18:46,655 - main - INFO - Epoch: 007 | Train loss: 0.793531 | Val loss: 1.288101 |
+2024-10-07 22:18:46,656 - main - INFO - *******patience:4*********
+2024-10-07 22:22:55,870 - main - INFO - Epoch: 008 | Train loss: 0.760003 | Val loss: 1.288362 |
+2024-10-07 22:22:55,879 - main - INFO - *******patience:5*********
+2024-10-07 22:27:05,714 - main - INFO - Epoch: 009 | Train loss: 0.730862 | Val loss: 1.262902 |
+2024-10-07 22:27:05,734 - main - INFO - *******patience:6*********
+2024-10-07 22:31:18,489 - main - INFO - Epoch: 010 | Train loss: 0.709052 | Val loss: 1.291376 |
+2024-10-07 22:31:18,500 - main - INFO - *******patience:7*********
+2024-10-07 22:31:18,500 - main - INFO - Early stopping.
+2024-10-07 22:31:33,222 - main - INFO - Loss 0.068028 
+steam_MAPE 36.871399 | electricity_MAPE 1619.206299 | compressed_air_MAPE 0.087964 | generator_MAPE 1.662297 | compressor_MAPE 5248665857818624.000000 | DHS_MAPE 1.342386 | battery_MAPE 0.034693

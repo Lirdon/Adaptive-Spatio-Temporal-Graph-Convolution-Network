@@ -1,0 +1,117 @@
+2024-10-04 10:18:26,389 - hyper_search - INFO - ------------------------------
+2024-10-04 10:23:05,938 - hyper_search - INFO - Epoch: 001 | Train loss: 1.054165 | Val loss: 1.202656 |
+2024-10-04 10:27:34,044 - hyper_search - INFO - Epoch: 002 | Train loss: 0.535866 | Val loss: 0.894820 |
+2024-10-04 10:32:02,000 - hyper_search - INFO - Epoch: 003 | Train loss: 0.472806 | Val loss: 0.839514 |
+2024-10-04 10:36:49,802 - hyper_search - INFO - Epoch: 004 | Train loss: 0.436243 | Val loss: 0.759910 |
+2024-10-04 10:42:30,547 - hyper_search - INFO - Epoch: 005 | Train loss: 0.419724 | Val loss: 0.781434 |
+2024-10-04 10:42:30,548 - hyper_search - INFO - *******patience:0*********
+2024-10-04 10:48:24,068 - hyper_search - INFO - Epoch: 006 | Train loss: 0.405419 | Val loss: 0.791982 |
+2024-10-04 10:48:24,070 - hyper_search - INFO - *******patience:1*********
+2024-10-04 10:54:08,208 - hyper_search - INFO - Epoch: 007 | Train loss: 0.396369 | Val loss: 0.802632 |
+2024-10-04 10:54:08,209 - hyper_search - INFO - *******patience:2*********
+2024-10-04 10:59:54,645 - hyper_search - INFO - Epoch: 008 | Train loss: 0.391138 | Val loss: 0.794117 |
+2024-10-04 10:59:54,647 - hyper_search - INFO - *******patience:3*********
+2024-10-04 11:05:45,954 - hyper_search - INFO - Epoch: 009 | Train loss: 0.383641 | Val loss: 0.727799 |
+2024-10-04 11:11:25,438 - hyper_search - INFO - Epoch: 010 | Train loss: 0.378888 | Val loss: 0.738279 |
+2024-10-04 11:11:25,439 - hyper_search - INFO - *******patience:0*********
+2024-10-04 11:16:01,861 - hyper_search - INFO - Epoch: 011 | Train loss: 0.357981 | Val loss: 0.725737 |
+2024-10-04 11:20:34,186 - hyper_search - INFO - Epoch: 012 | Train loss: 0.325724 | Val loss: 0.675849 |
+2024-10-04 11:25:01,837 - hyper_search - INFO - Epoch: 013 | Train loss: 0.321058 | Val loss: 0.750200 |
+2024-10-04 11:25:01,839 - hyper_search - INFO - *******patience:0*********
+2024-10-04 11:29:36,564 - hyper_search - INFO - Epoch: 014 | Train loss: 0.312033 | Val loss: 0.746296 |
+2024-10-04 11:29:36,565 - hyper_search - INFO - *******patience:1*********
+2024-10-04 11:34:12,062 - hyper_search - INFO - Epoch: 015 | Train loss: 0.293129 | Val loss: 0.679535 |
+2024-10-04 11:34:12,064 - hyper_search - INFO - *******patience:2*********
+2024-10-04 11:34:12,134 - hyper_search - INFO - **************
+2024-10-04 11:34:12,135 - hyper_search - INFO - Iter 1:
+2024-10-04 11:34:12,201 - hyper_search - INFO - Best Loss: 0.6795350313186646
+2024-10-04 11:34:12,217 - hyper_search - INFO - Best lr: 0.0003918194347141745,Best weight_decay_rate: 0.00023273922280628724,Best droprate: 0.41187640010910787, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.09997491581800291, Best epsilon: 0.45924889196586727,Best top_k: 4, Best num_per: 2
+2024-10-04 11:34:12,221 - hyper_search - INFO - Now Loss: 0.6795350313186646
+2024-10-04 11:34:12,229 - hyper_search - INFO - Now lr: 0.0003918194347141745,Now weight_decay_rate: 0.00023273922280628724,Now droprate: 0.41187640010910787,Now phy_top_type: KNN,Now graph_type: epsilonNN,Now graph_skip_conn: 0.09997491581800291, Now epsilon: 0.45924889196586727,Now top_k: 4, Now num_per: 2
+2024-10-04 11:34:13,005 - hyper_search - INFO - ------------------------------
+2024-10-04 11:38:31,676 - hyper_search - INFO - Epoch: 001 | Train loss: 0.813073 | Val loss: 1.056092 |
+2024-10-04 11:42:48,283 - hyper_search - INFO - Epoch: 002 | Train loss: 0.586681 | Val loss: 1.000220 |
+2024-10-04 11:46:58,892 - hyper_search - INFO - Epoch: 003 | Train loss: 0.513441 | Val loss: 0.968156 |
+2024-10-04 11:51:07,606 - hyper_search - INFO - Epoch: 004 | Train loss: 0.477260 | Val loss: 0.869848 |
+2024-10-04 11:55:16,987 - hyper_search - INFO - Epoch: 005 | Train loss: 0.457003 | Val loss: 0.861888 |
+2024-10-04 11:59:26,123 - hyper_search - INFO - Epoch: 006 | Train loss: 0.437556 | Val loss: 0.837075 |
+2024-10-04 12:03:37,781 - hyper_search - INFO - Epoch: 007 | Train loss: 0.403359 | Val loss: 0.883996 |
+2024-10-04 12:03:37,782 - hyper_search - INFO - *******patience:0*********
+2024-10-04 12:07:43,949 - hyper_search - INFO - Epoch: 008 | Train loss: 0.380653 | Val loss: 0.890874 |
+2024-10-04 12:07:43,949 - hyper_search - INFO - *******patience:1*********
+2024-10-04 12:11:52,394 - hyper_search - INFO - Epoch: 009 | Train loss: 0.357971 | Val loss: 0.888247 |
+2024-10-04 12:11:52,395 - hyper_search - INFO - *******patience:2*********
+2024-10-04 12:16:01,165 - hyper_search - INFO - Epoch: 010 | Train loss: 0.347289 | Val loss: 0.848200 |
+2024-10-04 12:16:01,168 - hyper_search - INFO - *******patience:3*********
+2024-10-04 12:20:09,030 - hyper_search - INFO - Epoch: 011 | Train loss: 0.329274 | Val loss: 0.866002 |
+2024-10-04 12:20:09,031 - hyper_search - INFO - *******patience:4*********
+2024-10-04 12:24:19,807 - hyper_search - INFO - Epoch: 012 | Train loss: 0.320805 | Val loss: 0.857511 |
+2024-10-04 12:24:19,808 - hyper_search - INFO - *******patience:5*********
+2024-10-04 12:28:30,664 - hyper_search - INFO - Epoch: 013 | Train loss: 0.315467 | Val loss: 0.835661 |
+2024-10-04 12:32:45,358 - hyper_search - INFO - Epoch: 014 | Train loss: 0.311354 | Val loss: 0.824164 |
+2024-10-04 12:36:56,386 - hyper_search - INFO - Epoch: 015 | Train loss: 0.308008 | Val loss: 0.810178 |
+2024-10-04 12:36:56,443 - hyper_search - INFO - **************
+2024-10-04 12:36:56,443 - hyper_search - INFO - Iter 2:
+2024-10-04 12:36:56,450 - hyper_search - INFO - Best Loss: 0.6795350313186646
+2024-10-04 12:36:56,457 - hyper_search - INFO - Best lr: 0.0003918194347141745,Best weight_decay_rate: 0.00023273922280628724,Best droprate: 0.41187640010910787, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.09997491581800291, Best epsilon: 0.45924889196586727,Best top_k: 4, Best num_per: 2
+2024-10-04 12:36:56,464 - hyper_search - INFO - Now Loss: 0.8101778626441956
+2024-10-04 12:36:56,515 - hyper_search - INFO - Now lr: 0.00020034427927560742,Now weight_decay_rate: 0.000129665117537604,Now droprate: 0.38879950890673,Now phy_top_type: KNN,Now graph_type: epsilonNN,Now graph_skip_conn: 0.9922115592912177, Now epsilon: 0.6174815096277166,Now top_k: 7, Now num_per: 1
+2024-10-04 12:36:57,353 - hyper_search - INFO - ------------------------------
+2024-10-04 12:41:37,147 - hyper_search - INFO - Epoch: 001 | Train loss: 0.816143 | Val loss: 1.201367 |
+2024-10-04 12:46:20,245 - hyper_search - INFO - Epoch: 002 | Train loss: 0.712036 | Val loss: 1.112544 |
+2024-10-04 12:51:04,239 - hyper_search - INFO - Epoch: 003 | Train loss: 0.605333 | Val loss: 1.087742 |
+2024-10-04 12:55:47,953 - hyper_search - INFO - Epoch: 004 | Train loss: 0.551997 | Val loss: 1.053131 |
+2024-10-04 13:00:32,470 - hyper_search - INFO - Epoch: 005 | Train loss: 0.527576 | Val loss: 0.997839 |
+2024-10-04 13:05:17,004 - hyper_search - INFO - Epoch: 006 | Train loss: 0.501921 | Val loss: 0.916377 |
+2024-10-04 13:09:59,176 - hyper_search - INFO - Epoch: 007 | Train loss: 0.486545 | Val loss: 0.864395 |
+2024-10-04 13:14:39,690 - hyper_search - INFO - Epoch: 008 | Train loss: 0.474233 | Val loss: 0.836661 |
+2024-10-04 13:19:22,499 - hyper_search - INFO - Epoch: 009 | Train loss: 0.461337 | Val loss: 0.815966 |
+2024-10-04 13:24:04,991 - hyper_search - INFO - Epoch: 010 | Train loss: 0.448831 | Val loss: 0.800343 |
+2024-10-04 13:28:46,338 - hyper_search - INFO - Epoch: 011 | Train loss: 0.438204 | Val loss: 0.804905 |
+2024-10-04 13:28:46,339 - hyper_search - INFO - *******patience:0*********
+2024-10-04 13:33:29,389 - hyper_search - INFO - Epoch: 012 | Train loss: 0.432298 | Val loss: 0.795965 |
+2024-10-04 13:38:12,378 - hyper_search - INFO - Epoch: 013 | Train loss: 0.417463 | Val loss: 0.777975 |
+2024-10-04 13:42:53,846 - hyper_search - INFO - Epoch: 014 | Train loss: 0.407494 | Val loss: 0.754094 |
+2024-10-04 13:47:36,093 - hyper_search - INFO - Epoch: 015 | Train loss: 0.396945 | Val loss: 0.753766 |
+2024-10-04 13:47:36,145 - hyper_search - INFO - **************
+2024-10-04 13:47:36,146 - hyper_search - INFO - Iter 3:
+2024-10-04 13:47:36,156 - hyper_search - INFO - Best Loss: 0.6795350313186646
+2024-10-04 13:47:36,166 - hyper_search - INFO - Best lr: 0.0003918194347141745,Best weight_decay_rate: 0.00023273922280628724,Best droprate: 0.41187640010910787, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.09997491581800291, Best epsilon: 0.45924889196586727,Best top_k: 4, Best num_per: 2
+2024-10-04 13:47:36,172 - hyper_search - INFO - Now Loss: 0.7537659406661987
+2024-10-04 13:47:36,176 - hyper_search - INFO - Now lr: 1.1120513715710631e-05,Now weight_decay_rate: 0.0011208547084229365,Now droprate: 0.25994438868610226,Now phy_top_type: epsilon,Now graph_type: KNN,Now graph_skip_conn: 0.23277134043030429, Now epsilon: 0.09060643453282081,Now top_k: 7, Now num_per: 4
+2024-10-04 13:47:37,149 - hyper_search - INFO - ------------------------------
+2024-10-04 13:52:40,788 - hyper_search - INFO - Epoch: 001 | Train loss: 1.189130 | Val loss: 0.965543 |
+2024-10-04 13:57:25,195 - hyper_search - INFO - Epoch: 002 | Train loss: 0.603061 | Val loss: 1.002704 |
+2024-10-04 13:57:25,197 - hyper_search - INFO - *******patience:0*********
+2024-10-04 14:02:10,424 - hyper_search - INFO - Epoch: 003 | Train loss: 0.510435 | Val loss: 0.793424 |
+2024-10-04 14:06:55,422 - hyper_search - INFO - Epoch: 004 | Train loss: 0.476224 | Val loss: 0.874202 |
+2024-10-04 14:06:55,423 - hyper_search - INFO - *******patience:0*********
+2024-10-04 14:11:39,452 - hyper_search - INFO - Epoch: 005 | Train loss: 0.441302 | Val loss: 0.898362 |
+2024-10-04 14:11:39,452 - hyper_search - INFO - *******patience:1*********
+2024-10-04 14:16:26,642 - hyper_search - INFO - Epoch: 006 | Train loss: 0.414846 | Val loss: 0.853044 |
+2024-10-04 14:16:26,643 - hyper_search - INFO - *******patience:2*********
+2024-10-04 14:21:09,766 - hyper_search - INFO - Epoch: 007 | Train loss: 0.401708 | Val loss: 0.779322 |
+2024-10-04 14:25:54,618 - hyper_search - INFO - Epoch: 008 | Train loss: 0.389612 | Val loss: 0.767817 |
+2024-10-04 14:30:43,447 - hyper_search - INFO - Epoch: 009 | Train loss: 0.380655 | Val loss: 0.769922 |
+2024-10-04 14:30:43,448 - hyper_search - INFO - *******patience:0*********
+2024-10-04 14:35:26,760 - hyper_search - INFO - Epoch: 010 | Train loss: 0.371847 | Val loss: 0.775805 |
+2024-10-04 14:35:26,762 - hyper_search - INFO - *******patience:1*********
+2024-10-04 14:40:11,643 - hyper_search - INFO - Epoch: 011 | Train loss: 0.361196 | Val loss: 0.772926 |
+2024-10-04 14:40:11,645 - hyper_search - INFO - *******patience:2*********
+2024-10-04 14:44:57,175 - hyper_search - INFO - Epoch: 012 | Train loss: 0.329877 | Val loss: 0.754550 |
+2024-10-04 14:49:43,502 - hyper_search - INFO - Epoch: 013 | Train loss: 0.305570 | Val loss: 0.780510 |
+2024-10-04 14:49:43,504 - hyper_search - INFO - *******patience:0*********
+2024-10-04 14:54:28,758 - hyper_search - INFO - Epoch: 014 | Train loss: 0.285345 | Val loss: 0.772238 |
+2024-10-04 14:54:28,759 - hyper_search - INFO - *******patience:1*********
+2024-10-04 14:59:13,742 - hyper_search - INFO - Epoch: 015 | Train loss: 0.266979 | Val loss: 0.735347 |
+2024-10-04 14:59:13,795 - hyper_search - INFO - **************
+2024-10-04 14:59:13,795 - hyper_search - INFO - Iter 4:
+2024-10-04 14:59:13,798 - hyper_search - INFO - Best Loss: 0.6795350313186646
+2024-10-04 14:59:13,803 - hyper_search - INFO - Best lr: 0.0003918194347141745,Best weight_decay_rate: 0.00023273922280628724,Best droprate: 0.41187640010910787, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.09997491581800291, Best epsilon: 0.45924889196586727,Best top_k: 4, Best num_per: 2
+2024-10-04 14:59:13,811 - hyper_search - INFO - Now Loss: 0.7353469133377075
+2024-10-04 14:59:13,817 - hyper_search - INFO - Now lr: 0.0009256818992066885,Now weight_decay_rate: 0.0008580760619921307,Now droprate: 0.44397616269452833,Now phy_top_type: KNN,Now graph_type: epsilonNN,Now graph_skip_conn: 0.013264961159866532, Now epsilon: 0.942201755684853,Now top_k: 6, Now num_per: 4
+2024-10-04 14:59:14,666 - hyper_search - INFO - ------------------------------
+2024-10-04 15:03:47,343 - hyper_search - INFO - Epoch: 001 | Train loss: 0.637553 | Val loss: 1.068635 |
+2024-10-04 15:08:27,902 - hyper_search - INFO - Epoch: 002 | Train loss: 0.507644 | Val loss: 1.096316 |
+2024-10-04 15:08:27,904 - hyper_search - INFO - *******patience:0*********
+2024-10-04 15:13:13,724 - hyper_search - INFO - Epoch: 003 | Train loss: 0.475114 | Val loss: 1.008797 |

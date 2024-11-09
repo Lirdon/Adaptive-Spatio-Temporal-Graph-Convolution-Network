@@ -1,0 +1,22 @@
+2024-10-07 20:27:50,428 - main - INFO - Epoch: 001 | Train loss: 1.047477 | Val loss: 1.264226 |
+2024-10-07 20:27:51,213 - main - INFO - Model saved at checkpoint/model_epoch_20241007_202750_1.pth
+2024-10-07 20:31:56,368 - main - INFO - Epoch: 002 | Train loss: 0.761897 | Val loss: 1.229736 |
+2024-10-07 20:31:57,175 - main - INFO - Model saved at checkpoint/model_epoch_20241007_203156_2.pth
+2024-10-07 20:38:54,559 - main - INFO - Epoch: 003 | Train loss: 0.707461 | Val loss: 1.220495 |
+2024-10-07 20:38:55,353 - main - INFO - Model saved at checkpoint/model_epoch_20241007_203854_3.pth
+2024-10-07 20:42:58,464 - main - INFO - Epoch: 004 | Train loss: 0.687262 | Val loss: 1.213019 |
+2024-10-07 20:42:59,204 - main - INFO - Model saved at checkpoint/model_epoch_20241007_204258_4.pth
+2024-10-07 20:49:40,319 - main - INFO - Epoch: 005 | Train loss: 0.668289 | Val loss: 1.178112 |
+2024-10-07 20:49:41,123 - main - INFO - Model saved at checkpoint/model_epoch_20241007_204940_5.pth
+2024-10-07 20:59:20,590 - main - INFO - Epoch: 006 | Train loss: 0.667972 | Val loss: 1.188340 |
+2024-10-07 20:59:20,593 - main - INFO - *******patience:0*********
+2024-10-07 21:08:27,403 - main - INFO - Epoch: 007 | Train loss: 0.649656 | Val loss: 1.193016 |
+2024-10-07 21:08:27,425 - main - INFO - *******patience:1*********
+2024-10-07 21:17:36,544 - main - INFO - Epoch: 008 | Train loss: 0.640215 | Val loss: 1.156236 |
+2024-10-07 21:17:37,329 - main - INFO - Model saved at checkpoint/model_epoch_20241007_211736_8.pth
+2024-10-07 21:26:22,357 - main - INFO - Epoch: 009 | Train loss: 0.639023 | Val loss: 1.158792 |
+2024-10-07 21:26:22,360 - main - INFO - *******patience:0*********
+2024-10-07 21:35:58,762 - main - INFO - Epoch: 010 | Train loss: 0.628570 | Val loss: 1.172370 |
+2024-10-07 21:35:58,764 - main - INFO - *******patience:1*********
+2024-10-07 21:36:26,538 - main - INFO - Loss 0.069079 
+steam_MAPE 9.082990 | electricity_MAPE 4777.281250 | compressed_air_MAPE 0.051522 | generator_MAPE 2.114936 | compressor_MAPE 29796503388160.000000 | DHS_MAPE 0.471939 | battery_MAPE 0.032419

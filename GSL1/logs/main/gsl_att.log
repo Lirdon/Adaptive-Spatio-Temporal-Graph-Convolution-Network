@@ -1,0 +1,25 @@
+2024-09-30 12:26:06,660 - main - INFO - Epoch: 001 | Train loss: 0.579437 | Val loss: 0.465607 |
+2024-09-30 12:26:07,157 - main - INFO - Model saved at checkpoint/model_epoch_20240930_122606_1.pth
+2024-09-30 12:31:41,658 - main - INFO - Epoch: 002 | Train loss: 0.439435 | Val loss: 0.416611 |
+2024-09-30 12:31:42,172 - main - INFO - Model saved at checkpoint/model_epoch_20240930_123141_2.pth
+2024-09-30 12:37:13,031 - main - INFO - Epoch: 003 | Train loss: 0.337583 | Val loss: 0.330864 |
+2024-09-30 12:37:13,548 - main - INFO - Model saved at checkpoint/model_epoch_20240930_123713_3.pth
+2024-09-30 12:42:41,825 - main - INFO - Epoch: 004 | Train loss: 0.303160 | Val loss: 0.348563 |
+2024-09-30 12:42:41,850 - main - INFO - *******patience:0*********
+2024-09-30 12:48:10,579 - main - INFO - Epoch: 005 | Train loss: 0.284125 | Val loss: 0.344937 |
+2024-09-30 12:48:10,583 - main - INFO - *******patience:1*********
+2024-09-30 12:53:40,478 - main - INFO - Epoch: 006 | Train loss: 0.272503 | Val loss: 0.342021 |
+2024-09-30 12:53:40,497 - main - INFO - *******patience:2*********
+2024-09-30 12:59:12,128 - main - INFO - Epoch: 007 | Train loss: 0.268743 | Val loss: 0.349631 |
+2024-09-30 12:59:12,133 - main - INFO - *******patience:3*********
+2024-09-30 13:04:45,762 - main - INFO - Epoch: 008 | Train loss: 0.262752 | Val loss: 0.334366 |
+2024-09-30 13:04:45,786 - main - INFO - *******patience:4*********
+2024-09-30 13:10:15,245 - main - INFO - Epoch: 009 | Train loss: 0.259189 | Val loss: 0.337993 |
+2024-09-30 13:10:15,250 - main - INFO - *******patience:5*********
+2024-09-30 13:15:45,399 - main - INFO - Epoch: 010 | Train loss: 0.256065 | Val loss: 0.361701 |
+2024-09-30 13:15:45,406 - main - INFO - *******patience:6*********
+2024-09-30 13:21:12,541 - main - INFO - Epoch: 011 | Train loss: 0.252189 | Val loss: 0.338252 |
+2024-09-30 13:21:12,546 - main - INFO - *******patience:7*********
+2024-09-30 13:21:12,546 - main - INFO - Early stopping.
+2024-09-30 13:21:30,890 - main - INFO - Loss 0.047112 
+steam_MAPE 0.208246 | electricity_MAPE 1.766823 | compressed_air_MAPE 0.200792 | generator_MAPE 0.003971 | compressor_MAPE 0.004803

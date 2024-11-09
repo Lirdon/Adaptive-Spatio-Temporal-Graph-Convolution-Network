@@ -1,0 +1,1205 @@
+2024-10-06 19:12:20,437 - hyper_search - INFO - ------------------------------
+2024-10-06 19:21:30,829 - hyper_search - INFO - Epoch: 001 | Train loss: 1.092065 | Val loss: 1.155270 |
+2024-10-06 19:21:31,716 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_192130_1.pth
+2024-10-06 19:21:58,924 - hyper_search - INFO - Loss 0.051609 
+steam_MAPE 40.010674 | electricity_MAPE 1.274071 | compressed_air_MAPE 0.015127 | generator_MAPE 0.419977 | compressor_MAPE 0.359767 | DHS_MAPE 0.304377 | battery_MAPE 0.011488
+2024-10-06 19:32:41,671 - hyper_search - INFO - Epoch: 002 | Train loss: 0.560401 | Val loss: 1.023874 |
+2024-10-06 19:32:42,552 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_193241_2.pth
+2024-10-06 19:33:13,537 - hyper_search - INFO - Loss 0.048319 
+steam_MAPE 40.011517 | electricity_MAPE 1.422724 | compressed_air_MAPE 0.017326 | generator_MAPE 0.373374 | compressor_MAPE 0.360914 | DHS_MAPE 0.180662 | battery_MAPE 0.015628
+2024-10-06 19:44:01,939 - hyper_search - INFO - Epoch: 003 | Train loss: 0.504010 | Val loss: 0.863954 |
+2024-10-06 19:44:02,809 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_194401_3.pth
+2024-10-06 19:44:36,388 - hyper_search - INFO - Loss 0.041853 
+steam_MAPE 40.011845 | electricity_MAPE 1.962013 | compressed_air_MAPE 0.017012 | generator_MAPE 0.277328 | compressor_MAPE 0.360938 | DHS_MAPE 0.218105 | battery_MAPE 0.014016
+2024-10-06 19:55:01,838 - hyper_search - INFO - Epoch: 004 | Train loss: 0.470190 | Val loss: 0.912663 |
+2024-10-06 19:55:02,088 - hyper_search - INFO - *******patience:0*********
+2024-10-06 20:05:42,036 - hyper_search - INFO - Epoch: 005 | Train loss: 0.457379 | Val loss: 0.832773 |
+2024-10-06 20:05:42,922 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_200542_5.pth
+2024-10-06 20:06:10,437 - hyper_search - INFO - Loss 0.041813 
+steam_MAPE 4.425874 | electricity_MAPE 1.786399 | compressed_air_MAPE 0.015606 | generator_MAPE 0.304073 | compressor_MAPE 0.360938 | DHS_MAPE 0.171849 | battery_MAPE 0.012242
+2024-10-06 20:16:44,106 - hyper_search - INFO - Epoch: 006 | Train loss: 0.441051 | Val loss: 0.811829 |
+2024-10-06 20:16:46,258 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_201644_6.pth
+2024-10-06 20:17:15,737 - hyper_search - INFO - Loss 0.040979 
+steam_MAPE 6.093396 | electricity_MAPE 1.616163 | compressed_air_MAPE 0.013499 | generator_MAPE 0.290200 | compressor_MAPE 0.360938 | DHS_MAPE 0.159252 | battery_MAPE 0.013242
+2024-10-06 20:27:13,600 - hyper_search - INFO - Epoch: 007 | Train loss: 0.422905 | Val loss: 0.765620 |
+2024-10-06 20:27:14,484 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_202713_7.pth
+2024-10-06 20:27:43,403 - hyper_search - INFO - Loss 0.036799 
+steam_MAPE 7.231448 | electricity_MAPE 1.653273 | compressed_air_MAPE 0.014234 | generator_MAPE 0.284949 | compressor_MAPE 0.360938 | DHS_MAPE 0.145257 | battery_MAPE 0.012062
+2024-10-06 20:37:35,050 - hyper_search - INFO - Epoch: 008 | Train loss: 0.396599 | Val loss: 0.744045 |
+2024-10-06 20:37:35,947 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_203735_8.pth
+2024-10-06 20:38:03,164 - hyper_search - INFO - Loss 0.035705 
+steam_MAPE 6.994892 | electricity_MAPE 1.721722 | compressed_air_MAPE 0.015463 | generator_MAPE 0.288505 | compressor_MAPE 0.360938 | DHS_MAPE 0.124834 | battery_MAPE 0.011538
+2024-10-06 20:47:38,538 - hyper_search - INFO - Epoch: 009 | Train loss: 0.381960 | Val loss: 0.742921 |
+2024-10-06 20:47:39,416 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_204738_9.pth
+2024-10-06 20:48:05,876 - hyper_search - INFO - Loss 0.035561 
+steam_MAPE 3.467005 | electricity_MAPE 1.631644 | compressed_air_MAPE 0.015189 | generator_MAPE 0.291163 | compressor_MAPE 0.360938 | DHS_MAPE 0.122370 | battery_MAPE 0.011410
+2024-10-06 20:58:14,409 - hyper_search - INFO - Epoch: 010 | Train loss: 0.372785 | Val loss: 0.725867 |
+2024-10-06 20:58:15,356 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_205814_10.pth
+2024-10-06 20:58:41,200 - hyper_search - INFO - Loss 0.035043 
+steam_MAPE 1.329151 | electricity_MAPE 1.690589 | compressed_air_MAPE 0.013946 | generator_MAPE 0.298651 | compressor_MAPE 0.360938 | DHS_MAPE 0.133062 | battery_MAPE 0.011357
+2024-10-06 21:08:26,039 - hyper_search - INFO - Epoch: 011 | Train loss: 0.364924 | Val loss: 0.763902 |
+2024-10-06 21:08:26,047 - hyper_search - INFO - *******patience:0*********
+2024-10-06 21:18:18,725 - hyper_search - INFO - Epoch: 012 | Train loss: 0.363972 | Val loss: 0.724591 |
+2024-10-06 21:18:19,697 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_211818_12.pth
+2024-10-06 21:18:49,424 - hyper_search - INFO - Loss 0.035842 
+steam_MAPE 1.268122 | electricity_MAPE 1.642984 | compressed_air_MAPE 0.013454 | generator_MAPE 0.292656 | compressor_MAPE 0.360938 | DHS_MAPE 0.124039 | battery_MAPE 0.011473
+2024-10-06 21:29:05,107 - hyper_search - INFO - Epoch: 013 | Train loss: 0.358353 | Val loss: 0.727688 |
+2024-10-06 21:29:05,116 - hyper_search - INFO - *******patience:0*********
+2024-10-06 21:39:44,880 - hyper_search - INFO - Epoch: 014 | Train loss: 0.355406 | Val loss: 0.729225 |
+2024-10-06 21:39:44,902 - hyper_search - INFO - *******patience:1*********
+2024-10-06 21:50:01,415 - hyper_search - INFO - Epoch: 015 | Train loss: 0.359852 | Val loss: 0.664648 |
+2024-10-06 21:50:02,326 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_215001_15.pth
+2024-10-06 21:50:32,530 - hyper_search - INFO - Loss 0.033534 
+steam_MAPE 3.213928 | electricity_MAPE 1.720961 | compressed_air_MAPE 0.014450 | generator_MAPE 0.309181 | compressor_MAPE 0.360938 | DHS_MAPE 0.135416 | battery_MAPE 0.011745
+2024-10-06 22:00:45,994 - hyper_search - INFO - Epoch: 016 | Train loss: 0.352313 | Val loss: 0.741403 |
+2024-10-06 22:00:46,025 - hyper_search - INFO - *******patience:0*********
+2024-10-06 22:10:51,460 - hyper_search - INFO - Epoch: 017 | Train loss: 0.354780 | Val loss: 0.696672 |
+2024-10-06 22:10:51,517 - hyper_search - INFO - *******patience:1*********
+2024-10-06 22:21:12,776 - hyper_search - INFO - Epoch: 018 | Train loss: 0.348905 | Val loss: 0.699147 |
+2024-10-06 22:21:12,843 - hyper_search - INFO - *******patience:2*********
+2024-10-06 22:31:44,816 - hyper_search - INFO - Epoch: 019 | Train loss: 0.345118 | Val loss: 0.668324 |
+2024-10-06 22:31:44,850 - hyper_search - INFO - *******patience:3*********
+2024-10-06 22:35:06,415 - hyper_search - INFO - Epoch: 020 | Train loss: 0.343393 | Val loss: 0.672906 |
+2024-10-06 22:35:06,430 - hyper_search - INFO - *******patience:4*********
+2024-10-06 22:38:03,516 - hyper_search - INFO - Epoch: 021 | Train loss: 0.343057 | Val loss: 0.684190 |
+2024-10-06 22:38:03,531 - hyper_search - INFO - *******patience:5*********
+2024-10-06 22:41:00,530 - hyper_search - INFO - Epoch: 022 | Train loss: 0.340387 | Val loss: 0.688597 |
+2024-10-06 22:41:00,535 - hyper_search - INFO - *******patience:6*********
+2024-10-06 22:43:58,037 - hyper_search - INFO - Epoch: 023 | Train loss: 0.339695 | Val loss: 0.661178 |
+2024-10-06 22:43:58,938 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_224358_23.pth
+2024-10-06 22:44:07,804 - hyper_search - INFO - Loss 0.033274 
+steam_MAPE 3.734425 | electricity_MAPE 1.694637 | compressed_air_MAPE 0.015334 | generator_MAPE 0.300807 | compressor_MAPE 0.360938 | DHS_MAPE 0.127038 | battery_MAPE 0.012546
+2024-10-06 22:47:03,983 - hyper_search - INFO - Epoch: 024 | Train loss: 0.337609 | Val loss: 0.639616 |
+2024-10-06 22:47:04,846 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_224703_24.pth
+2024-10-06 22:47:13,721 - hyper_search - INFO - Loss 0.032845 
+steam_MAPE 4.351628 | electricity_MAPE 1.773037 | compressed_air_MAPE 0.013540 | generator_MAPE 0.311653 | compressor_MAPE 0.360938 | DHS_MAPE 0.133854 | battery_MAPE 0.011280
+2024-10-06 22:50:10,831 - hyper_search - INFO - Epoch: 025 | Train loss: 0.337786 | Val loss: 0.681240 |
+2024-10-06 22:50:11,115 - hyper_search - INFO - *******patience:0*********
+2024-10-06 22:53:09,523 - hyper_search - INFO - Epoch: 026 | Train loss: 0.336501 | Val loss: 0.665482 |
+2024-10-06 22:53:09,526 - hyper_search - INFO - *******patience:1*********
+2024-10-06 22:56:04,399 - hyper_search - INFO - Epoch: 027 | Train loss: 0.335285 | Val loss: 0.651830 |
+2024-10-06 22:56:04,423 - hyper_search - INFO - *******patience:2*********
+2024-10-06 22:59:00,738 - hyper_search - INFO - Epoch: 028 | Train loss: 0.335575 | Val loss: 0.653172 |
+2024-10-06 22:59:00,779 - hyper_search - INFO - *******patience:3*********
+2024-10-06 23:02:01,150 - hyper_search - INFO - Epoch: 029 | Train loss: 0.335110 | Val loss: 0.618868 |
+2024-10-06 23:02:02,067 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_230201_29.pth
+2024-10-06 23:02:10,915 - hyper_search - INFO - Loss 0.032062 
+steam_MAPE 2.685613 | electricity_MAPE 1.814697 | compressed_air_MAPE 0.013948 | generator_MAPE 0.308090 | compressor_MAPE 0.360938 | DHS_MAPE 0.123384 | battery_MAPE 0.011344
+2024-10-06 23:05:07,038 - hyper_search - INFO - Epoch: 030 | Train loss: 0.336211 | Val loss: 0.605628 |
+2024-10-06 23:05:08,099 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_230507_30.pth
+2024-10-06 23:05:16,938 - hyper_search - INFO - Loss 0.031466 
+steam_MAPE 3.083363 | electricity_MAPE 1.740822 | compressed_air_MAPE 0.014599 | generator_MAPE 0.293239 | compressor_MAPE 0.360938 | DHS_MAPE 0.123961 | battery_MAPE 0.012351
+2024-10-06 23:05:16,973 - hyper_search - INFO - **************
+2024-10-06 23:05:16,994 - hyper_search - INFO - Iter 1:
+2024-10-06 23:05:16,995 - hyper_search - INFO - Best Loss: 0.6056278944015503
+2024-10-06 23:05:17,006 - hyper_search - INFO - Best lr: 0.0003918194347141745,Best weight_decay_rate: 0.00023273922280628724,Best droprate: 0.41187640010910787, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.09997491581800291, Best epsilon: 0.45924889196586727,Best top_k: 4, Best num_per: 2
+2024-10-06 23:05:17,011 - hyper_search - INFO - Now Loss: 0.6056278944015503
+2024-10-06 23:05:17,017 - hyper_search - INFO - Now lr: 0.0003918194347141745,Now weight_decay_rate: 0.00023273922280628724,Now droprate: 0.41187640010910787,Now phy_top_type: KNN,Now graph_type: epsilonNN,Now graph_skip_conn: 0.09997491581800291, Now epsilon: 0.45924889196586727,Now top_k: 4, Now num_per: 2
+2024-10-06 23:05:17,904 - hyper_search - INFO - ------------------------------
+2024-10-06 23:08:15,023 - hyper_search - INFO - Epoch: 001 | Train loss: 0.755591 | Val loss: 1.121732 |
+2024-10-06 23:08:15,989 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_230815_1.pth
+2024-10-06 23:08:24,991 - hyper_search - INFO - Loss 0.051922 
+steam_MAPE 39.776344 | electricity_MAPE 0.659905 | compressed_air_MAPE 0.020838 | generator_MAPE 0.293517 | compressor_MAPE 0.360938 | DHS_MAPE 0.176734 | battery_MAPE 0.025177
+2024-10-06 23:11:20,063 - hyper_search - INFO - Epoch: 002 | Train loss: 0.576551 | Val loss: 0.941663 |
+2024-10-06 23:11:20,995 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_231120_2.pth
+2024-10-06 23:11:29,871 - hyper_search - INFO - Loss 0.042393 
+steam_MAPE 19.386490 | electricity_MAPE 1.559365 | compressed_air_MAPE 0.020585 | generator_MAPE 0.323010 | compressor_MAPE 0.360938 | DHS_MAPE 0.174453 | battery_MAPE 0.011742
+2024-10-06 23:14:26,453 - hyper_search - INFO - Epoch: 003 | Train loss: 0.496465 | Val loss: 0.798127 |
+2024-10-06 23:14:27,339 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_231426_3.pth
+2024-10-06 23:14:36,125 - hyper_search - INFO - Loss 0.037200 
+steam_MAPE 1.097154 | electricity_MAPE 1.692276 | compressed_air_MAPE 0.020284 | generator_MAPE 0.252244 | compressor_MAPE 0.360938 | DHS_MAPE 0.172154 | battery_MAPE 0.011938
+2024-10-06 23:17:38,211 - hyper_search - INFO - Epoch: 004 | Train loss: 0.453475 | Val loss: 0.813931 |
+2024-10-06 23:17:38,222 - hyper_search - INFO - *******patience:0*********
+2024-10-06 23:20:41,242 - hyper_search - INFO - Epoch: 005 | Train loss: 0.420045 | Val loss: 0.813120 |
+2024-10-06 23:20:41,308 - hyper_search - INFO - *******patience:1*********
+2024-10-06 23:23:37,052 - hyper_search - INFO - Epoch: 006 | Train loss: 0.408130 | Val loss: 0.783702 |
+2024-10-06 23:23:37,983 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_232337_6.pth
+2024-10-06 23:23:46,711 - hyper_search - INFO - Loss 0.035594 
+steam_MAPE 3.465372 | electricity_MAPE 1.643711 | compressed_air_MAPE 0.019309 | generator_MAPE 0.290709 | compressor_MAPE 0.360938 | DHS_MAPE 0.130348 | battery_MAPE 0.012145
+2024-10-06 23:26:42,882 - hyper_search - INFO - Epoch: 007 | Train loss: 0.395139 | Val loss: 0.788393 |
+2024-10-06 23:26:42,894 - hyper_search - INFO - *******patience:0*********
+2024-10-06 23:29:38,677 - hyper_search - INFO - Epoch: 008 | Train loss: 0.376320 | Val loss: 0.736461 |
+2024-10-06 23:29:39,569 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_232938_8.pth
+2024-10-06 23:29:48,269 - hyper_search - INFO - Loss 0.034159 
+steam_MAPE 5.443935 | electricity_MAPE 1.585109 | compressed_air_MAPE 0.017723 | generator_MAPE 0.278123 | compressor_MAPE 0.348956 | DHS_MAPE 0.122346 | battery_MAPE 0.011988
+2024-10-06 23:32:48,115 - hyper_search - INFO - Epoch: 009 | Train loss: 0.371328 | Val loss: 0.755207 |
+2024-10-06 23:32:48,155 - hyper_search - INFO - *******patience:0*********
+2024-10-06 23:35:44,826 - hyper_search - INFO - Epoch: 010 | Train loss: 0.332737 | Val loss: 0.774061 |
+2024-10-06 23:35:44,835 - hyper_search - INFO - *******patience:1*********
+2024-10-06 23:38:40,286 - hyper_search - INFO - Epoch: 011 | Train loss: 0.315323 | Val loss: 0.796181 |
+2024-10-06 23:38:40,295 - hyper_search - INFO - *******patience:2*********
+2024-10-06 23:41:35,766 - hyper_search - INFO - Epoch: 012 | Train loss: 0.301928 | Val loss: 0.752230 |
+2024-10-06 23:41:35,780 - hyper_search - INFO - *******patience:3*********
+2024-10-06 23:44:31,078 - hyper_search - INFO - Epoch: 013 | Train loss: 0.294769 | Val loss: 0.738697 |
+2024-10-06 23:44:31,093 - hyper_search - INFO - *******patience:4*********
+2024-10-06 23:47:26,255 - hyper_search - INFO - Epoch: 014 | Train loss: 0.288323 | Val loss: 0.734948 |
+2024-10-06 23:47:27,142 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241006_234726_14.pth
+2024-10-06 23:47:35,889 - hyper_search - INFO - Loss 0.027126 
+steam_MAPE 4.422820 | electricity_MAPE 1.524361 | compressed_air_MAPE 0.015935 | generator_MAPE 0.300634 | compressor_MAPE 0.078152 | DHS_MAPE 0.129655 | battery_MAPE 0.011705
+2024-10-06 23:50:32,856 - hyper_search - INFO - Epoch: 015 | Train loss: 0.287616 | Val loss: 0.760044 |
+2024-10-06 23:50:32,879 - hyper_search - INFO - *******patience:0*********
+2024-10-06 23:53:30,054 - hyper_search - INFO - Epoch: 016 | Train loss: 0.280820 | Val loss: 0.735280 |
+2024-10-06 23:53:30,060 - hyper_search - INFO - *******patience:1*********
+2024-10-06 23:56:26,782 - hyper_search - INFO - Epoch: 017 | Train loss: 0.281415 | Val loss: 0.745844 |
+2024-10-06 23:56:26,814 - hyper_search - INFO - *******patience:2*********
+2024-10-06 23:59:23,448 - hyper_search - INFO - Epoch: 018 | Train loss: 0.278369 | Val loss: 0.764149 |
+2024-10-06 23:59:23,463 - hyper_search - INFO - *******patience:3*********
+2024-10-07 00:02:20,350 - hyper_search - INFO - Epoch: 019 | Train loss: 0.273050 | Val loss: 0.746590 |
+2024-10-07 00:02:20,362 - hyper_search - INFO - *******patience:4*********
+2024-10-07 00:05:15,885 - hyper_search - INFO - Epoch: 020 | Train loss: 0.271403 | Val loss: 0.700811 |
+2024-10-07 00:05:16,740 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_000515_20.pth
+2024-10-07 00:05:25,483 - hyper_search - INFO - Loss 0.026149 
+steam_MAPE 3.031687 | electricity_MAPE 1.623294 | compressed_air_MAPE 0.015110 | generator_MAPE 0.282889 | compressor_MAPE 0.097792 | DHS_MAPE 0.102979 | battery_MAPE 0.011792
+2024-10-07 00:08:23,275 - hyper_search - INFO - Epoch: 021 | Train loss: 0.271118 | Val loss: 0.706031 |
+2024-10-07 00:08:23,534 - hyper_search - INFO - *******patience:0*********
+2024-10-07 00:11:19,780 - hyper_search - INFO - Epoch: 022 | Train loss: 0.266566 | Val loss: 0.755739 |
+2024-10-07 00:11:19,789 - hyper_search - INFO - *******patience:1*********
+2024-10-07 00:14:15,098 - hyper_search - INFO - Epoch: 023 | Train loss: 0.264123 | Val loss: 0.744574 |
+2024-10-07 00:14:15,106 - hyper_search - INFO - *******patience:2*********
+2024-10-07 00:17:10,933 - hyper_search - INFO - Epoch: 024 | Train loss: 0.259583 | Val loss: 0.760369 |
+2024-10-07 00:17:10,940 - hyper_search - INFO - *******patience:3*********
+2024-10-07 00:20:07,199 - hyper_search - INFO - Epoch: 025 | Train loss: 0.261521 | Val loss: 0.724906 |
+2024-10-07 00:20:07,206 - hyper_search - INFO - *******patience:4*********
+2024-10-07 00:23:02,673 - hyper_search - INFO - Epoch: 026 | Train loss: 0.259644 | Val loss: 0.673471 |
+2024-10-07 00:23:03,570 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_002302_26.pth
+2024-10-07 00:23:12,348 - hyper_search - INFO - Loss 0.025785 
+steam_MAPE 3.546463 | electricity_MAPE 1.587731 | compressed_air_MAPE 0.013874 | generator_MAPE 0.285585 | compressor_MAPE 0.070937 | DHS_MAPE 0.099026 | battery_MAPE 0.011972
+2024-10-07 00:26:08,615 - hyper_search - INFO - Epoch: 027 | Train loss: 0.255479 | Val loss: 0.742788 |
+2024-10-07 00:26:08,622 - hyper_search - INFO - *******patience:0*********
+2024-10-07 00:29:04,339 - hyper_search - INFO - Epoch: 028 | Train loss: 0.263925 | Val loss: 0.717181 |
+2024-10-07 00:29:04,344 - hyper_search - INFO - *******patience:1*********
+2024-10-07 00:32:00,343 - hyper_search - INFO - Epoch: 029 | Train loss: 0.257896 | Val loss: 0.662529 |
+2024-10-07 00:32:01,273 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_003200_29.pth
+2024-10-07 00:32:10,191 - hyper_search - INFO - Loss 0.025666 
+steam_MAPE 3.251770 | electricity_MAPE 1.591849 | compressed_air_MAPE 0.014120 | generator_MAPE 0.283419 | compressor_MAPE 0.063380 | DHS_MAPE 0.113593 | battery_MAPE 0.011832
+2024-10-07 00:35:07,041 - hyper_search - INFO - Epoch: 030 | Train loss: 0.255619 | Val loss: 0.660579 |
+2024-10-07 00:35:07,924 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_003507_30.pth
+2024-10-07 00:35:16,747 - hyper_search - INFO - Loss 0.025771 
+steam_MAPE 3.489870 | electricity_MAPE 1.622281 | compressed_air_MAPE 0.014555 | generator_MAPE 0.293963 | compressor_MAPE 0.163449 | DHS_MAPE 0.092230 | battery_MAPE 0.012159
+2024-10-07 00:35:16,797 - hyper_search - INFO - **************
+2024-10-07 00:35:16,798 - hyper_search - INFO - Iter 2:
+2024-10-07 00:35:16,806 - hyper_search - INFO - Best Loss: 0.6056278944015503
+2024-10-07 00:35:16,806 - hyper_search - INFO - Best lr: 0.0003918194347141745,Best weight_decay_rate: 0.00023273922280628724,Best droprate: 0.41187640010910787, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.09997491581800291, Best epsilon: 0.45924889196586727,Best top_k: 4, Best num_per: 2
+2024-10-07 00:35:16,806 - hyper_search - INFO - Now Loss: 0.6605793237686157
+2024-10-07 00:35:16,806 - hyper_search - INFO - Now lr: 0.00020034427927560742,Now weight_decay_rate: 0.000129665117537604,Now droprate: 0.38879950890673,Now phy_top_type: KNN,Now graph_type: epsilonNN,Now graph_skip_conn: 0.9922115592912177, Now epsilon: 0.6174815096277166,Now top_k: 7, Now num_per: 1
+2024-10-07 00:35:17,599 - hyper_search - INFO - ------------------------------
+2024-10-07 00:38:13,246 - hyper_search - INFO - Epoch: 001 | Train loss: 0.751882 | Val loss: 1.020479 |
+2024-10-07 00:38:14,160 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_003813_1.pth
+2024-10-07 00:38:23,080 - hyper_search - INFO - Loss 0.048247 
+steam_MAPE 18.669058 | electricity_MAPE 1.179705 | compressed_air_MAPE 0.023816 | generator_MAPE 0.174889 | compressor_MAPE 0.359283 | DHS_MAPE 0.509139 | battery_MAPE 0.015446
+2024-10-07 00:41:18,512 - hyper_search - INFO - Epoch: 002 | Train loss: 0.657161 | Val loss: 1.082981 |
+2024-10-07 00:41:18,522 - hyper_search - INFO - *******patience:0*********
+2024-10-07 00:44:13,356 - hyper_search - INFO - Epoch: 003 | Train loss: 0.640551 | Val loss: 1.149255 |
+2024-10-07 00:44:13,365 - hyper_search - INFO - *******patience:1*********
+2024-10-07 00:47:07,776 - hyper_search - INFO - Epoch: 004 | Train loss: 0.578298 | Val loss: 1.125293 |
+2024-10-07 00:47:07,819 - hyper_search - INFO - *******patience:2*********
+2024-10-07 00:50:02,279 - hyper_search - INFO - Epoch: 005 | Train loss: 0.545402 | Val loss: 1.059309 |
+2024-10-07 00:50:02,296 - hyper_search - INFO - *******patience:3*********
+2024-10-07 00:52:55,192 - hyper_search - INFO - Epoch: 006 | Train loss: 0.508478 | Val loss: 1.038076 |
+2024-10-07 00:52:55,198 - hyper_search - INFO - *******patience:4*********
+2024-10-07 00:55:47,674 - hyper_search - INFO - Epoch: 007 | Train loss: 0.485783 | Val loss: 1.058798 |
+2024-10-07 00:55:47,680 - hyper_search - INFO - *******patience:5*********
+2024-10-07 00:58:39,923 - hyper_search - INFO - Epoch: 008 | Train loss: 0.490535 | Val loss: 1.078241 |
+2024-10-07 00:58:39,931 - hyper_search - INFO - *******patience:6*********
+2024-10-07 01:01:34,577 - hyper_search - INFO - Epoch: 009 | Train loss: 0.452760 | Val loss: 1.060608 |
+2024-10-07 01:01:34,585 - hyper_search - INFO - *******patience:7*********
+2024-10-07 01:01:34,620 - hyper_search - INFO - **************
+2024-10-07 01:01:34,626 - hyper_search - INFO - Iter 3:
+2024-10-07 01:01:34,627 - hyper_search - INFO - Best Loss: 0.6056278944015503
+2024-10-07 01:01:34,627 - hyper_search - INFO - Best lr: 0.0003918194347141745,Best weight_decay_rate: 0.00023273922280628724,Best droprate: 0.41187640010910787, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.09997491581800291, Best epsilon: 0.45924889196586727,Best top_k: 4, Best num_per: 2
+2024-10-07 01:01:34,627 - hyper_search - INFO - Now Loss: 1.0606075525283813
+2024-10-07 01:01:34,627 - hyper_search - INFO - Now lr: 1.1120513715710631e-05,Now weight_decay_rate: 0.0011208547084229365,Now droprate: 0.25994438868610226,Now phy_top_type: epsilon,Now graph_type: KNN,Now graph_skip_conn: 0.23277134043030429, Now epsilon: 0.09060643453282081,Now top_k: 7, Now num_per: 4
+2024-10-07 01:01:35,487 - hyper_search - INFO - ------------------------------
+2024-10-07 01:04:27,028 - hyper_search - INFO - Epoch: 001 | Train loss: 0.781654 | Val loss: 1.018758 |
+2024-10-07 01:04:27,916 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_010427_1.pth
+2024-10-07 01:04:36,605 - hyper_search - INFO - Loss 0.049134 
+steam_MAPE 8.279170 | electricity_MAPE 1.578214 | compressed_air_MAPE 0.029090 | generator_MAPE 0.298286 | compressor_MAPE 0.360938 | DHS_MAPE 0.099541 | battery_MAPE 0.032419
+2024-10-07 01:07:28,586 - hyper_search - INFO - Epoch: 002 | Train loss: 0.593526 | Val loss: 0.930192 |
+2024-10-07 01:07:29,559 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_010728_2.pth
+2024-10-07 01:07:38,011 - hyper_search - INFO - Loss 0.045924 
+steam_MAPE 3.146519 | electricity_MAPE 1.242510 | compressed_air_MAPE 0.028426 | generator_MAPE 0.278779 | compressor_MAPE 0.360938 | DHS_MAPE 0.119880 | battery_MAPE 0.032419
+2024-10-07 01:10:30,468 - hyper_search - INFO - Epoch: 003 | Train loss: 0.551278 | Val loss: 0.870144 |
+2024-10-07 01:10:31,334 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_011030_3.pth
+2024-10-07 01:10:39,810 - hyper_search - INFO - Loss 0.044112 
+steam_MAPE 4.242211 | electricity_MAPE 1.542422 | compressed_air_MAPE 0.026950 | generator_MAPE 0.254065 | compressor_MAPE 0.360938 | DHS_MAPE 0.104399 | battery_MAPE 0.032419
+2024-10-07 01:13:31,303 - hyper_search - INFO - Epoch: 004 | Train loss: 0.527079 | Val loss: 0.778246 |
+2024-10-07 01:13:32,205 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_011331_4.pth
+2024-10-07 01:13:40,914 - hyper_search - INFO - Loss 0.042832 
+steam_MAPE 3.952409 | electricity_MAPE 1.493491 | compressed_air_MAPE 0.023451 | generator_MAPE 0.279199 | compressor_MAPE 0.360938 | DHS_MAPE 0.090262 | battery_MAPE 0.032419
+2024-10-07 01:16:32,863 - hyper_search - INFO - Epoch: 005 | Train loss: 0.512442 | Val loss: 0.748798 |
+2024-10-07 01:16:33,740 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_011632_5.pth
+2024-10-07 01:16:42,371 - hyper_search - INFO - Loss 0.041485 
+steam_MAPE 1.564833 | electricity_MAPE 1.701961 | compressed_air_MAPE 0.022225 | generator_MAPE 0.247369 | compressor_MAPE 0.360938 | DHS_MAPE 0.085757 | battery_MAPE 0.032419
+2024-10-07 01:19:36,107 - hyper_search - INFO - Epoch: 006 | Train loss: 0.501357 | Val loss: 0.774339 |
+2024-10-07 01:19:36,114 - hyper_search - INFO - *******patience:0*********
+2024-10-07 01:22:29,427 - hyper_search - INFO - Epoch: 007 | Train loss: 0.492592 | Val loss: 0.767387 |
+2024-10-07 01:22:29,439 - hyper_search - INFO - *******patience:1*********
+2024-10-07 01:25:22,500 - hyper_search - INFO - Epoch: 008 | Train loss: 0.483420 | Val loss: 0.789200 |
+2024-10-07 01:25:22,778 - hyper_search - INFO - *******patience:2*********
+2024-10-07 01:28:13,659 - hyper_search - INFO - Epoch: 009 | Train loss: 0.477980 | Val loss: 0.747785 |
+2024-10-07 01:28:14,538 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_012813_9.pth
+2024-10-07 01:28:23,206 - hyper_search - INFO - Loss 0.041508 
+steam_MAPE 4.738183 | electricity_MAPE 1.733166 | compressed_air_MAPE 0.021681 | generator_MAPE 0.268346 | compressor_MAPE 0.360938 | DHS_MAPE 0.082992 | battery_MAPE 0.032419
+2024-10-07 01:31:18,728 - hyper_search - INFO - Epoch: 010 | Train loss: 0.464769 | Val loss: 0.697966 |
+2024-10-07 01:31:19,609 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_013118_10.pth
+2024-10-07 01:31:28,355 - hyper_search - INFO - Loss 0.040187 
+steam_MAPE 5.001243 | electricity_MAPE 1.672256 | compressed_air_MAPE 0.020519 | generator_MAPE 0.259576 | compressor_MAPE 0.360938 | DHS_MAPE 0.084192 | battery_MAPE 0.032419
+2024-10-07 01:34:22,858 - hyper_search - INFO - Epoch: 011 | Train loss: 0.454902 | Val loss: 0.654533 |
+2024-10-07 01:34:23,805 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_013422_11.pth
+2024-10-07 01:34:32,414 - hyper_search - INFO - Loss 0.039543 
+steam_MAPE 4.876354 | electricity_MAPE 1.803675 | compressed_air_MAPE 0.018982 | generator_MAPE 0.265872 | compressor_MAPE 0.360938 | DHS_MAPE 0.082906 | battery_MAPE 0.032419
+2024-10-07 01:37:23,548 - hyper_search - INFO - Epoch: 012 | Train loss: 0.445358 | Val loss: 0.672745 |
+2024-10-07 01:37:23,568 - hyper_search - INFO - *******patience:0*********
+2024-10-07 01:40:15,126 - hyper_search - INFO - Epoch: 013 | Train loss: 0.437804 | Val loss: 0.692125 |
+2024-10-07 01:40:15,149 - hyper_search - INFO - *******patience:1*********
+2024-10-07 01:43:06,938 - hyper_search - INFO - Epoch: 014 | Train loss: 0.428789 | Val loss: 0.670240 |
+2024-10-07 01:43:06,946 - hyper_search - INFO - *******patience:2*********
+2024-10-07 01:45:58,394 - hyper_search - INFO - Epoch: 015 | Train loss: 0.412580 | Val loss: 0.667785 |
+2024-10-07 01:45:58,412 - hyper_search - INFO - *******patience:3*********
+2024-10-07 01:48:49,402 - hyper_search - INFO - Epoch: 016 | Train loss: 0.391486 | Val loss: 0.713198 |
+2024-10-07 01:48:49,408 - hyper_search - INFO - *******patience:4*********
+2024-10-07 01:51:41,745 - hyper_search - INFO - Epoch: 017 | Train loss: 0.375984 | Val loss: 0.693734 |
+2024-10-07 01:51:41,778 - hyper_search - INFO - *******patience:5*********
+2024-10-07 01:54:33,107 - hyper_search - INFO - Epoch: 018 | Train loss: 0.375186 | Val loss: 0.680342 |
+2024-10-07 01:54:33,112 - hyper_search - INFO - *******patience:6*********
+2024-10-07 01:57:24,050 - hyper_search - INFO - Epoch: 019 | Train loss: 0.371738 | Val loss: 0.634705 |
+2024-10-07 01:57:24,927 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_015724_19.pth
+2024-10-07 01:57:33,392 - hyper_search - INFO - Loss 0.035678 
+steam_MAPE 4.328259 | electricity_MAPE 1.808256 | compressed_air_MAPE 0.015770 | generator_MAPE 0.301513 | compressor_MAPE 0.360938 | DHS_MAPE 0.081964 | battery_MAPE 0.032419
+2024-10-07 02:00:26,460 - hyper_search - INFO - Epoch: 020 | Train loss: 0.369206 | Val loss: 0.619550 |
+2024-10-07 02:00:27,319 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_020026_20.pth
+2024-10-07 02:00:36,048 - hyper_search - INFO - Loss 0.035000 
+steam_MAPE 4.380649 | electricity_MAPE 1.696891 | compressed_air_MAPE 0.015698 | generator_MAPE 0.291397 | compressor_MAPE 0.360938 | DHS_MAPE 0.081082 | battery_MAPE 0.032419
+2024-10-07 02:03:27,782 - hyper_search - INFO - Epoch: 021 | Train loss: 0.366464 | Val loss: 0.638675 |
+2024-10-07 02:03:27,821 - hyper_search - INFO - *******patience:0*********
+2024-10-07 02:06:19,322 - hyper_search - INFO - Epoch: 022 | Train loss: 0.362852 | Val loss: 0.596672 |
+2024-10-07 02:06:20,212 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_020619_22.pth
+2024-10-07 02:06:28,795 - hyper_search - INFO - Loss 0.033621 
+steam_MAPE 3.831290 | electricity_MAPE 1.748424 | compressed_air_MAPE 0.016354 | generator_MAPE 0.256247 | compressor_MAPE 0.360938 | DHS_MAPE 0.083461 | battery_MAPE 0.032414
+2024-10-07 02:09:20,430 - hyper_search - INFO - Epoch: 023 | Train loss: 0.362290 | Val loss: 0.603690 |
+2024-10-07 02:09:20,435 - hyper_search - INFO - *******patience:0*********
+2024-10-07 02:12:12,149 - hyper_search - INFO - Epoch: 024 | Train loss: 0.355093 | Val loss: 0.568350 |
+2024-10-07 02:12:13,008 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_021212_24.pth
+2024-10-07 02:12:21,637 - hyper_search - INFO - Loss 0.033741 
+steam_MAPE 4.199766 | electricity_MAPE 1.757340 | compressed_air_MAPE 0.015163 | generator_MAPE 0.229327 | compressor_MAPE 0.360938 | DHS_MAPE 0.081441 | battery_MAPE 0.032409
+2024-10-07 02:15:13,236 - hyper_search - INFO - Epoch: 025 | Train loss: 0.356291 | Val loss: 0.575955 |
+2024-10-07 02:15:13,259 - hyper_search - INFO - *******patience:0*********
+2024-10-07 02:18:05,426 - hyper_search - INFO - Epoch: 026 | Train loss: 0.355196 | Val loss: 0.589968 |
+2024-10-07 02:18:05,449 - hyper_search - INFO - *******patience:1*********
+2024-10-07 02:20:57,293 - hyper_search - INFO - Epoch: 027 | Train loss: 0.356259 | Val loss: 0.545002 |
+2024-10-07 02:20:58,175 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_022057_27.pth
+2024-10-07 02:21:06,704 - hyper_search - INFO - Loss 0.032493 
+steam_MAPE 3.764317 | electricity_MAPE 1.667392 | compressed_air_MAPE 0.014076 | generator_MAPE 0.245960 | compressor_MAPE 0.360938 | DHS_MAPE 0.081573 | battery_MAPE 0.032406
+2024-10-07 02:23:59,130 - hyper_search - INFO - Epoch: 028 | Train loss: 0.352827 | Val loss: 0.547167 |
+2024-10-07 02:23:59,137 - hyper_search - INFO - *******patience:0*********
+2024-10-07 02:26:50,752 - hyper_search - INFO - Epoch: 029 | Train loss: 0.349064 | Val loss: 0.543587 |
+2024-10-07 02:26:51,655 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_022650_29.pth
+2024-10-07 02:27:00,193 - hyper_search - INFO - Loss 0.032502 
+steam_MAPE 4.286436 | electricity_MAPE 1.728001 | compressed_air_MAPE 0.014392 | generator_MAPE 0.230024 | compressor_MAPE 0.360938 | DHS_MAPE 0.078011 | battery_MAPE 0.032392
+2024-10-07 02:29:50,695 - hyper_search - INFO - Epoch: 030 | Train loss: 0.345420 | Val loss: 0.557346 |
+2024-10-07 02:29:50,697 - hyper_search - INFO - *******patience:0*********
+2024-10-07 02:29:50,734 - hyper_search - INFO - **************
+2024-10-07 02:29:50,735 - hyper_search - INFO - Iter 4:
+2024-10-07 02:29:50,740 - hyper_search - INFO - Best Loss: 0.5573456883430481
+2024-10-07 02:29:50,740 - hyper_search - INFO - Best lr: 0.0009256818992066885,Best weight_decay_rate: 0.0008580760619921307,Best droprate: 0.44397616269452833, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.013264961159866532, Best epsilon: 0.942201755684853,Best top_k: 6, Best num_per: 4
+2024-10-07 02:29:50,740 - hyper_search - INFO - Now Loss: 0.5573456883430481
+2024-10-07 02:29:50,740 - hyper_search - INFO - Now lr: 0.0009256818992066885,Now weight_decay_rate: 0.0008580760619921307,Now droprate: 0.44397616269452833,Now phy_top_type: KNN,Now graph_type: epsilonNN,Now graph_skip_conn: 0.013264961159866532, Now epsilon: 0.942201755684853,Now top_k: 6, Now num_per: 4
+2024-10-07 02:29:51,495 - hyper_search - INFO - ------------------------------
+2024-10-07 02:32:48,322 - hyper_search - INFO - Epoch: 001 | Train loss: 0.701080 | Val loss: 1.113230 |
+2024-10-07 02:32:49,200 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_023248_1.pth
+2024-10-07 02:32:58,382 - hyper_search - INFO - Loss 0.049751 
+steam_MAPE 40.012066 | electricity_MAPE 1.567746 | compressed_air_MAPE 0.020411 | generator_MAPE 0.303493 | compressor_MAPE 0.224936 | DHS_MAPE 0.415706 | battery_MAPE 0.013997
+2024-10-07 02:35:50,850 - hyper_search - INFO - Epoch: 002 | Train loss: 0.526869 | Val loss: 1.094287 |
+2024-10-07 02:35:51,753 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_023550_2.pth
+2024-10-07 02:36:00,485 - hyper_search - INFO - Loss 0.051127 
+steam_MAPE 40.011967 | electricity_MAPE 1.117421 | compressed_air_MAPE 0.020161 | generator_MAPE 0.364858 | compressor_MAPE 0.292391 | DHS_MAPE 0.371007 | battery_MAPE 0.017007
+2024-10-07 02:38:51,839 - hyper_search - INFO - Epoch: 003 | Train loss: 0.499053 | Val loss: 1.068467 |
+2024-10-07 02:38:52,711 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_023851_3.pth
+2024-10-07 02:39:01,201 - hyper_search - INFO - Loss 0.044798 
+steam_MAPE 40.011017 | electricity_MAPE 1.391026 | compressed_air_MAPE 0.019831 | generator_MAPE 0.361273 | compressor_MAPE 0.124420 | DHS_MAPE 0.349568 | battery_MAPE 0.013243
+2024-10-07 02:41:52,302 - hyper_search - INFO - Epoch: 004 | Train loss: 0.476582 | Val loss: 1.022008 |
+2024-10-07 02:41:53,144 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_024152_4.pth
+2024-10-07 02:42:01,772 - hyper_search - INFO - Loss 0.042271 
+steam_MAPE 40.010456 | electricity_MAPE 1.659662 | compressed_air_MAPE 0.019710 | generator_MAPE 0.341733 | compressor_MAPE 0.159201 | DHS_MAPE 0.270272 | battery_MAPE 0.012630
+2024-10-07 02:44:54,457 - hyper_search - INFO - Epoch: 005 | Train loss: 0.445276 | Val loss: 1.030246 |
+2024-10-07 02:44:54,464 - hyper_search - INFO - *******patience:0*********
+2024-10-07 02:47:46,091 - hyper_search - INFO - Epoch: 006 | Train loss: 0.439762 | Val loss: 1.010096 |
+2024-10-07 02:47:46,944 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_024746_6.pth
+2024-10-07 02:47:55,576 - hyper_search - INFO - Loss 0.040618 
+steam_MAPE 40.009655 | electricity_MAPE 1.605361 | compressed_air_MAPE 0.020004 | generator_MAPE 0.347050 | compressor_MAPE 0.079162 | DHS_MAPE 0.273488 | battery_MAPE 0.012264
+2024-10-07 02:50:47,761 - hyper_search - INFO - Epoch: 007 | Train loss: 0.423934 | Val loss: 0.946401 |
+2024-10-07 02:50:48,626 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_025047_7.pth
+2024-10-07 02:50:57,211 - hyper_search - INFO - Loss 0.038138 
+steam_MAPE 40.009010 | electricity_MAPE 1.669764 | compressed_air_MAPE 0.020041 | generator_MAPE 0.305961 | compressor_MAPE 0.064751 | DHS_MAPE 0.254156 | battery_MAPE 0.011983
+2024-10-07 02:53:49,148 - hyper_search - INFO - Epoch: 008 | Train loss: 0.407980 | Val loss: 0.960091 |
+2024-10-07 02:53:49,154 - hyper_search - INFO - *******patience:0*********
+2024-10-07 02:56:40,802 - hyper_search - INFO - Epoch: 009 | Train loss: 0.396832 | Val loss: 0.933995 |
+2024-10-07 02:56:41,671 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_025640_9.pth
+2024-10-07 02:56:50,166 - hyper_search - INFO - Loss 0.036347 
+steam_MAPE 40.007458 | electricity_MAPE 1.976300 | compressed_air_MAPE 0.019127 | generator_MAPE 0.309518 | compressor_MAPE 0.096416 | DHS_MAPE 0.260522 | battery_MAPE 0.011921
+2024-10-07 02:59:41,493 - hyper_search - INFO - Epoch: 010 | Train loss: 0.380657 | Val loss: 0.932575 |
+2024-10-07 02:59:42,357 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_025941_10.pth
+2024-10-07 02:59:51,041 - hyper_search - INFO - Loss 0.036262 
+steam_MAPE 40.006641 | electricity_MAPE 1.988523 | compressed_air_MAPE 0.018673 | generator_MAPE 0.324319 | compressor_MAPE 0.064350 | DHS_MAPE 0.264905 | battery_MAPE 0.012516
+2024-10-07 03:02:44,512 - hyper_search - INFO - Epoch: 011 | Train loss: 0.368540 | Val loss: 0.941728 |
+2024-10-07 03:02:44,517 - hyper_search - INFO - *******patience:0*********
+2024-10-07 03:05:36,779 - hyper_search - INFO - Epoch: 012 | Train loss: 0.361695 | Val loss: 0.904815 |
+2024-10-07 03:05:37,657 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_030536_12.pth
+2024-10-07 03:05:46,227 - hyper_search - INFO - Loss 0.034922 
+steam_MAPE 40.004951 | electricity_MAPE 1.454238 | compressed_air_MAPE 0.018732 | generator_MAPE 0.314512 | compressor_MAPE 0.071448 | DHS_MAPE 0.209782 | battery_MAPE 0.012194
+2024-10-07 03:08:37,406 - hyper_search - INFO - Epoch: 013 | Train loss: 0.348894 | Val loss: 0.865372 |
+2024-10-07 03:08:38,177 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_030837_13.pth
+2024-10-07 03:08:46,813 - hyper_search - INFO - Loss 0.033186 
+steam_MAPE 40.004246 | electricity_MAPE 1.492265 | compressed_air_MAPE 0.019280 | generator_MAPE 0.308771 | compressor_MAPE 0.124477 | DHS_MAPE 0.148094 | battery_MAPE 0.012426
+2024-10-07 03:11:37,477 - hyper_search - INFO - Epoch: 014 | Train loss: 0.347803 | Val loss: 0.862320 |
+2024-10-07 03:11:38,346 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_031137_14.pth
+2024-10-07 03:11:47,016 - hyper_search - INFO - Loss 0.033312 
+steam_MAPE 40.003822 | electricity_MAPE 1.735927 | compressed_air_MAPE 0.019320 | generator_MAPE 0.314563 | compressor_MAPE 0.097864 | DHS_MAPE 0.143754 | battery_MAPE 0.012112
+2024-10-07 03:14:38,795 - hyper_search - INFO - Epoch: 015 | Train loss: 0.343601 | Val loss: 0.898661 |
+2024-10-07 03:14:38,802 - hyper_search - INFO - *******patience:0*********
+2024-10-07 03:17:30,518 - hyper_search - INFO - Epoch: 016 | Train loss: 0.333947 | Val loss: 0.839637 |
+2024-10-07 03:17:31,382 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_031730_16.pth
+2024-10-07 03:17:40,039 - hyper_search - INFO - Loss 0.033191 
+steam_MAPE 40.003094 | electricity_MAPE 1.740138 | compressed_air_MAPE 0.018385 | generator_MAPE 0.308431 | compressor_MAPE 0.097338 | DHS_MAPE 0.151207 | battery_MAPE 0.011927
+2024-10-07 03:20:31,960 - hyper_search - INFO - Epoch: 017 | Train loss: 0.327766 | Val loss: 0.845322 |
+2024-10-07 03:20:31,965 - hyper_search - INFO - *******patience:0*********
+2024-10-07 03:23:23,361 - hyper_search - INFO - Epoch: 018 | Train loss: 0.312165 | Val loss: 0.856349 |
+2024-10-07 03:23:23,366 - hyper_search - INFO - *******patience:1*********
+2024-10-07 03:26:15,750 - hyper_search - INFO - Epoch: 019 | Train loss: 0.309220 | Val loss: 0.875018 |
+2024-10-07 03:26:15,756 - hyper_search - INFO - *******patience:2*********
+2024-10-07 03:29:07,712 - hyper_search - INFO - Epoch: 020 | Train loss: 0.303338 | Val loss: 0.827718 |
+2024-10-07 03:29:08,600 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_032907_20.pth
+2024-10-07 03:29:17,321 - hyper_search - INFO - Loss 0.030683 
+steam_MAPE 40.002792 | electricity_MAPE 1.659807 | compressed_air_MAPE 0.018498 | generator_MAPE 0.297537 | compressor_MAPE 0.074886 | DHS_MAPE 0.139329 | battery_MAPE 0.012320
+2024-10-07 03:32:10,823 - hyper_search - INFO - Epoch: 021 | Train loss: 0.299556 | Val loss: 0.787506 |
+2024-10-07 03:32:11,688 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_033210_21.pth
+2024-10-07 03:32:20,272 - hyper_search - INFO - Loss 0.029608 
+steam_MAPE 40.002556 | electricity_MAPE 1.650440 | compressed_air_MAPE 0.018435 | generator_MAPE 0.287911 | compressor_MAPE 0.067010 | DHS_MAPE 0.129468 | battery_MAPE 0.011938
+2024-10-07 03:35:13,555 - hyper_search - INFO - Epoch: 022 | Train loss: 0.303910 | Val loss: 0.786545 |
+2024-10-07 03:35:14,437 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_033513_22.pth
+2024-10-07 03:35:24,076 - hyper_search - INFO - Loss 0.029681 
+steam_MAPE 40.002350 | electricity_MAPE 1.699390 | compressed_air_MAPE 0.018536 | generator_MAPE 0.290303 | compressor_MAPE 0.074893 | DHS_MAPE 0.120228 | battery_MAPE 0.011946
+2024-10-07 03:38:16,286 - hyper_search - INFO - Epoch: 023 | Train loss: 0.297269 | Val loss: 0.829276 |
+2024-10-07 03:38:16,291 - hyper_search - INFO - *******patience:0*********
+2024-10-07 03:41:07,900 - hyper_search - INFO - Epoch: 024 | Train loss: 0.297253 | Val loss: 0.850639 |
+2024-10-07 03:41:07,907 - hyper_search - INFO - *******patience:1*********
+2024-10-07 03:43:59,179 - hyper_search - INFO - Epoch: 025 | Train loss: 0.295423 | Val loss: 0.842132 |
+2024-10-07 03:43:59,186 - hyper_search - INFO - *******patience:2*********
+2024-10-07 03:46:51,835 - hyper_search - INFO - Epoch: 026 | Train loss: 0.294315 | Val loss: 0.808133 |
+2024-10-07 03:46:51,840 - hyper_search - INFO - *******patience:3*********
+2024-10-07 03:49:42,777 - hyper_search - INFO - Epoch: 027 | Train loss: 0.291135 | Val loss: 0.797897 |
+2024-10-07 03:49:42,782 - hyper_search - INFO - *******patience:4*********
+2024-10-07 03:52:33,334 - hyper_search - INFO - Epoch: 028 | Train loss: 0.291574 | Val loss: 0.817984 |
+2024-10-07 03:52:33,339 - hyper_search - INFO - *******patience:5*********
+2024-10-07 03:55:24,356 - hyper_search - INFO - Epoch: 029 | Train loss: 0.288099 | Val loss: 0.817593 |
+2024-10-07 03:55:24,363 - hyper_search - INFO - *******patience:6*********
+2024-10-07 03:58:16,790 - hyper_search - INFO - Epoch: 030 | Train loss: 0.282563 | Val loss: 0.833071 |
+2024-10-07 03:58:16,795 - hyper_search - INFO - *******patience:7*********
+2024-10-07 03:58:16,827 - hyper_search - INFO - **************
+2024-10-07 03:58:16,832 - hyper_search - INFO - Iter 5:
+2024-10-07 03:58:16,837 - hyper_search - INFO - Best Loss: 0.5573456883430481
+2024-10-07 03:58:16,837 - hyper_search - INFO - Best lr: 0.0009256818992066885,Best weight_decay_rate: 0.0008580760619921307,Best droprate: 0.44397616269452833, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.013264961159866532, Best epsilon: 0.942201755684853,Best top_k: 6, Best num_per: 4
+2024-10-07 03:58:16,837 - hyper_search - INFO - Now Loss: 0.8330712914466858
+2024-10-07 03:58:16,837 - hyper_search - INFO - Now lr: 1.0762979285747968e-05,Now weight_decay_rate: 0.0002895927274708839,Now droprate: 0.19641018641040472,Now phy_top_type: KNN,Now graph_type: KNN,Now graph_skip_conn: 0.8331949117361646, Now epsilon: 0.1733646535077721,Now top_k: 5, Now num_per: 3
+2024-10-07 03:58:17,706 - hyper_search - INFO - ------------------------------
+2024-10-07 04:01:10,485 - hyper_search - INFO - Epoch: 001 | Train loss: 0.754310 | Val loss: 1.190599 |
+2024-10-07 04:01:11,351 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_040110_1.pth
+2024-10-07 04:01:20,023 - hyper_search - INFO - Loss 0.057651 
+steam_MAPE 11.348113 | electricity_MAPE 1.299959 | compressed_air_MAPE 0.024310 | generator_MAPE 0.284512 | compressor_MAPE 0.359734 | DHS_MAPE 0.292082 | battery_MAPE 0.032419
+2024-10-07 04:04:11,550 - hyper_search - INFO - Epoch: 002 | Train loss: 0.579515 | Val loss: 0.838253 |
+2024-10-07 04:04:12,403 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_040411_2.pth
+2024-10-07 04:04:21,096 - hyper_search - INFO - Loss 0.047480 
+steam_MAPE 10.422561 | electricity_MAPE 1.871634 | compressed_air_MAPE 0.017468 | generator_MAPE 0.310562 | compressor_MAPE 0.360332 | DHS_MAPE 0.155141 | battery_MAPE 0.032419
+2024-10-07 04:07:13,022 - hyper_search - INFO - Epoch: 003 | Train loss: 0.509101 | Val loss: 0.826026 |
+2024-10-07 04:07:13,883 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_040713_3.pth
+2024-10-07 04:07:22,563 - hyper_search - INFO - Loss 0.045912 
+steam_MAPE 0.760376 | electricity_MAPE 1.370438 | compressed_air_MAPE 0.016535 | generator_MAPE 0.315333 | compressor_MAPE 0.360638 | DHS_MAPE 0.186981 | battery_MAPE 0.032419
+2024-10-07 04:10:13,509 - hyper_search - INFO - Epoch: 004 | Train loss: 0.490932 | Val loss: 0.787082 |
+2024-10-07 04:10:14,381 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_041013_4.pth
+2024-10-07 04:10:23,071 - hyper_search - INFO - Loss 0.044600 
+steam_MAPE 4.418131 | electricity_MAPE 1.443043 | compressed_air_MAPE 0.017033 | generator_MAPE 0.288268 | compressor_MAPE 0.360807 | DHS_MAPE 0.177401 | battery_MAPE 0.032419
+2024-10-07 04:13:15,762 - hyper_search - INFO - Epoch: 005 | Train loss: 0.476364 | Val loss: 0.808365 |
+2024-10-07 04:13:15,767 - hyper_search - INFO - *******patience:0*********
+2024-10-07 04:16:08,193 - hyper_search - INFO - Epoch: 006 | Train loss: 0.465944 | Val loss: 0.788403 |
+2024-10-07 04:16:08,198 - hyper_search - INFO - *******patience:1*********
+2024-10-07 04:19:00,698 - hyper_search - INFO - Epoch: 007 | Train loss: 0.458091 | Val loss: 0.766027 |
+2024-10-07 04:19:01,566 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_041900_7.pth
+2024-10-07 04:19:10,213 - hyper_search - INFO - Loss 0.042983 
+steam_MAPE 2.720536 | electricity_MAPE 1.501716 | compressed_air_MAPE 0.016097 | generator_MAPE 0.295117 | compressor_MAPE 0.360852 | DHS_MAPE 0.164796 | battery_MAPE 0.032419
+2024-10-07 04:22:01,504 - hyper_search - INFO - Epoch: 008 | Train loss: 0.451032 | Val loss: 0.798400 |
+2024-10-07 04:22:01,509 - hyper_search - INFO - *******patience:0*********
+2024-10-07 04:24:53,182 - hyper_search - INFO - Epoch: 009 | Train loss: 0.438868 | Val loss: 0.744360 |
+2024-10-07 04:24:54,135 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_042453_9.pth
+2024-10-07 04:25:02,729 - hyper_search - INFO - Loss 0.040415 
+steam_MAPE 1.114268 | electricity_MAPE 1.462036 | compressed_air_MAPE 0.016514 | generator_MAPE 0.283328 | compressor_MAPE 0.360625 | DHS_MAPE 0.178745 | battery_MAPE 0.032419
+2024-10-07 04:27:55,117 - hyper_search - INFO - Epoch: 010 | Train loss: 0.416477 | Val loss: 0.702996 |
+2024-10-07 04:27:55,988 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_042755_10.pth
+2024-10-07 04:28:05,080 - hyper_search - INFO - Loss 0.039551 
+steam_MAPE 1.768192 | electricity_MAPE 1.650443 | compressed_air_MAPE 0.014409 | generator_MAPE 0.315526 | compressor_MAPE 0.360436 | DHS_MAPE 0.172542 | battery_MAPE 0.032419
+2024-10-07 04:30:59,859 - hyper_search - INFO - Epoch: 011 | Train loss: 0.416143 | Val loss: 0.724504 |
+2024-10-07 04:30:59,872 - hyper_search - INFO - *******patience:0*********
+2024-10-07 04:33:52,908 - hyper_search - INFO - Epoch: 012 | Train loss: 0.409367 | Val loss: 0.749726 |
+2024-10-07 04:33:52,915 - hyper_search - INFO - *******patience:1*********
+2024-10-07 04:36:44,130 - hyper_search - INFO - Epoch: 013 | Train loss: 0.403066 | Val loss: 0.750018 |
+2024-10-07 04:36:44,134 - hyper_search - INFO - *******patience:2*********
+2024-10-07 04:39:37,385 - hyper_search - INFO - Epoch: 014 | Train loss: 0.398480 | Val loss: 0.774650 |
+2024-10-07 04:39:37,412 - hyper_search - INFO - *******patience:3*********
+2024-10-07 04:42:29,680 - hyper_search - INFO - Epoch: 015 | Train loss: 0.396167 | Val loss: 0.774363 |
+2024-10-07 04:42:29,685 - hyper_search - INFO - *******patience:4*********
+2024-10-07 04:45:21,304 - hyper_search - INFO - Epoch: 016 | Train loss: 0.393208 | Val loss: 0.750598 |
+2024-10-07 04:45:21,311 - hyper_search - INFO - *******patience:5*********
+2024-10-07 04:48:12,365 - hyper_search - INFO - Epoch: 017 | Train loss: 0.392806 | Val loss: 0.784933 |
+2024-10-07 04:48:12,370 - hyper_search - INFO - *******patience:6*********
+2024-10-07 04:51:05,187 - hyper_search - INFO - Epoch: 018 | Train loss: 0.388827 | Val loss: 0.728467 |
+2024-10-07 04:51:05,203 - hyper_search - INFO - *******patience:7*********
+2024-10-07 04:51:05,239 - hyper_search - INFO - **************
+2024-10-07 04:51:05,246 - hyper_search - INFO - Iter 6:
+2024-10-07 04:51:05,246 - hyper_search - INFO - Best Loss: 0.5573456883430481
+2024-10-07 04:51:05,246 - hyper_search - INFO - Best lr: 0.0009256818992066885,Best weight_decay_rate: 0.0008580760619921307,Best droprate: 0.44397616269452833, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.013264961159866532, Best epsilon: 0.942201755684853,Best top_k: 6, Best num_per: 4
+2024-10-07 04:51:05,246 - hyper_search - INFO - Now Loss: 0.7284671068191528
+2024-10-07 04:51:05,246 - hyper_search - INFO - Now lr: 0.000324132680419563,Now weight_decay_rate: 0.0007084541505250235,Now droprate: 0.18317666514727557,Now phy_top_type: KNN,Now graph_type: epsilonNN,Now graph_skip_conn: 0.8422847745949987, Now epsilon: 0.4497541333697658,Now top_k: 5, Now num_per: 9
+2024-10-07 04:51:06,091 - hyper_search - INFO - ------------------------------
+2024-10-07 04:53:57,778 - hyper_search - INFO - Epoch: 001 | Train loss: 0.763620 | Val loss: 1.149508 |
+2024-10-07 04:53:58,665 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_045357_1.pth
+2024-10-07 04:54:07,172 - hyper_search - INFO - Loss 0.051234 
+steam_MAPE 6.906382 | electricity_MAPE 0.830288 | compressed_air_MAPE 0.020697 | generator_MAPE 0.277122 | compressor_MAPE 0.442811 | DHS_MAPE 0.367382 | battery_MAPE 0.032419
+2024-10-07 04:56:59,908 - hyper_search - INFO - Epoch: 002 | Train loss: 0.672854 | Val loss: 1.054087 |
+2024-10-07 04:57:00,773 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_045659_2.pth
+2024-10-07 04:57:09,382 - hyper_search - INFO - Loss 0.047137 
+steam_MAPE 8.471260 | electricity_MAPE 0.942250 | compressed_air_MAPE 0.019105 | generator_MAPE 0.332264 | compressor_MAPE 0.360938 | DHS_MAPE 0.205211 | battery_MAPE 0.032419
+2024-10-07 05:00:03,613 - hyper_search - INFO - Epoch: 003 | Train loss: 0.524377 | Val loss: 0.971728 |
+2024-10-07 05:00:04,471 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_050003_3.pth
+2024-10-07 05:00:13,199 - hyper_search - INFO - Loss 0.046208 
+steam_MAPE 4.692431 | electricity_MAPE 1.727101 | compressed_air_MAPE 0.020445 | generator_MAPE 0.317564 | compressor_MAPE 0.360938 | DHS_MAPE 0.149514 | battery_MAPE 0.032419
+2024-10-07 05:03:05,317 - hyper_search - INFO - Epoch: 004 | Train loss: 0.492608 | Val loss: 0.865135 |
+2024-10-07 05:03:06,179 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_050305_4.pth
+2024-10-07 05:03:14,866 - hyper_search - INFO - Loss 0.045178 
+steam_MAPE 1.181647 | electricity_MAPE 1.798367 | compressed_air_MAPE 0.019083 | generator_MAPE 0.315847 | compressor_MAPE 0.360938 | DHS_MAPE 0.195112 | battery_MAPE 0.032419
+2024-10-07 05:06:07,355 - hyper_search - INFO - Epoch: 005 | Train loss: 0.478556 | Val loss: 0.785380 |
+2024-10-07 05:06:08,219 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_050607_5.pth
+2024-10-07 05:06:16,921 - hyper_search - INFO - Loss 0.043201 
+steam_MAPE 1.014073 | electricity_MAPE 1.599868 | compressed_air_MAPE 0.016911 | generator_MAPE 0.297972 | compressor_MAPE 0.360938 | DHS_MAPE 0.132887 | battery_MAPE 0.032419
+2024-10-07 05:09:09,000 - hyper_search - INFO - Epoch: 006 | Train loss: 0.465828 | Val loss: 0.788795 |
+2024-10-07 05:09:09,005 - hyper_search - INFO - *******patience:0*********
+2024-10-07 05:12:02,992 - hyper_search - INFO - Epoch: 007 | Train loss: 0.451867 | Val loss: 0.784975 |
+2024-10-07 05:12:03,841 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_051202_7.pth
+2024-10-07 05:12:12,711 - hyper_search - INFO - Loss 0.041505 
+steam_MAPE 4.112350 | electricity_MAPE 1.644822 | compressed_air_MAPE 0.015583 | generator_MAPE 0.284100 | compressor_MAPE 0.360938 | DHS_MAPE 0.148612 | battery_MAPE 0.032419
+2024-10-07 05:15:05,049 - hyper_search - INFO - Epoch: 008 | Train loss: 0.428269 | Val loss: 0.740608 |
+2024-10-07 05:15:05,908 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_051505_8.pth
+2024-10-07 05:15:14,504 - hyper_search - INFO - Loss 0.039571 
+steam_MAPE 5.787250 | electricity_MAPE 1.658337 | compressed_air_MAPE 0.015498 | generator_MAPE 0.283531 | compressor_MAPE 0.360938 | DHS_MAPE 0.147180 | battery_MAPE 0.032419
+2024-10-07 05:18:05,575 - hyper_search - INFO - Epoch: 009 | Train loss: 0.418513 | Val loss: 0.706201 |
+2024-10-07 05:18:06,438 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_051805_9.pth
+2024-10-07 05:18:14,995 - hyper_search - INFO - Loss 0.039675 
+steam_MAPE 3.191404 | electricity_MAPE 1.564602 | compressed_air_MAPE 0.013362 | generator_MAPE 0.282785 | compressor_MAPE 0.360938 | DHS_MAPE 0.130571 | battery_MAPE 0.032404
+2024-10-07 05:21:07,203 - hyper_search - INFO - Epoch: 010 | Train loss: 0.409796 | Val loss: 0.684345 |
+2024-10-07 05:21:08,259 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_052107_10.pth
+2024-10-07 05:21:16,831 - hyper_search - INFO - Loss 0.039838 
+steam_MAPE 1.687005 | electricity_MAPE 1.655367 | compressed_air_MAPE 0.011150 | generator_MAPE 0.296968 | compressor_MAPE 0.360938 | DHS_MAPE 0.121836 | battery_MAPE 0.032380
+2024-10-07 05:24:09,414 - hyper_search - INFO - Epoch: 011 | Train loss: 0.406148 | Val loss: 0.680718 |
+2024-10-07 05:24:10,484 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_052409_11.pth
+2024-10-07 05:24:19,133 - hyper_search - INFO - Loss 0.038649 
+steam_MAPE 1.869948 | electricity_MAPE 1.715245 | compressed_air_MAPE 0.012091 | generator_MAPE 0.294060 | compressor_MAPE 0.360938 | DHS_MAPE 0.125932 | battery_MAPE 0.032370
+2024-10-07 05:27:11,255 - hyper_search - INFO - Epoch: 012 | Train loss: 0.401750 | Val loss: 0.655899 |
+2024-10-07 05:27:12,170 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_052711_12.pth
+2024-10-07 05:27:20,787 - hyper_search - INFO - Loss 0.037878 
+steam_MAPE 2.284282 | electricity_MAPE 1.675246 | compressed_air_MAPE 0.010917 | generator_MAPE 0.270677 | compressor_MAPE 0.360938 | DHS_MAPE 0.129721 | battery_MAPE 0.032370
+2024-10-07 05:30:15,422 - hyper_search - INFO - Epoch: 013 | Train loss: 0.401499 | Val loss: 0.692897 |
+2024-10-07 05:30:15,427 - hyper_search - INFO - *******patience:0*********
+2024-10-07 05:33:10,411 - hyper_search - INFO - Epoch: 014 | Train loss: 0.398810 | Val loss: 0.719387 |
+2024-10-07 05:33:10,416 - hyper_search - INFO - *******patience:1*********
+2024-10-07 05:36:03,601 - hyper_search - INFO - Epoch: 015 | Train loss: 0.402244 | Val loss: 0.704986 |
+2024-10-07 05:36:03,627 - hyper_search - INFO - *******patience:2*********
+2024-10-07 05:38:55,805 - hyper_search - INFO - Epoch: 016 | Train loss: 0.399629 | Val loss: 0.669988 |
+2024-10-07 05:38:55,811 - hyper_search - INFO - *******patience:3*********
+2024-10-07 05:41:48,179 - hyper_search - INFO - Epoch: 017 | Train loss: 0.393130 | Val loss: 0.692328 |
+2024-10-07 05:41:48,205 - hyper_search - INFO - *******patience:4*********
+2024-10-07 05:44:39,783 - hyper_search - INFO - Epoch: 018 | Train loss: 0.393987 | Val loss: 0.717615 |
+2024-10-07 05:44:39,788 - hyper_search - INFO - *******patience:5*********
+2024-10-07 05:47:31,569 - hyper_search - INFO - Epoch: 019 | Train loss: 0.389959 | Val loss: 0.734494 |
+2024-10-07 05:47:31,591 - hyper_search - INFO - *******patience:6*********
+2024-10-07 05:50:22,116 - hyper_search - INFO - Epoch: 020 | Train loss: 0.391723 | Val loss: 0.730556 |
+2024-10-07 05:50:22,120 - hyper_search - INFO - *******patience:7*********
+2024-10-07 05:50:22,156 - hyper_search - INFO - **************
+2024-10-07 05:50:22,157 - hyper_search - INFO - Iter 7:
+2024-10-07 05:50:22,162 - hyper_search - INFO - Best Loss: 0.5573456883430481
+2024-10-07 05:50:22,162 - hyper_search - INFO - Best lr: 0.0009256818992066885,Best weight_decay_rate: 0.0008580760619921307,Best droprate: 0.44397616269452833, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.013264961159866532, Best epsilon: 0.942201755684853,Best top_k: 6, Best num_per: 4
+2024-10-07 05:50:22,162 - hyper_search - INFO - Now Loss: 0.7305564284324646
+2024-10-07 05:50:22,162 - hyper_search - INFO - Now lr: 0.0002848026275422517,Now weight_decay_rate: 0.0004498643077694105,Now droprate: 0.3281775897621598,Now phy_top_type: KNN,Now graph_type: KNN,Now graph_skip_conn: 0.8445338486781516, Now epsilon: 0.747320110137381,Now top_k: 6, Now num_per: 6
+2024-10-07 05:50:22,985 - hyper_search - INFO - ------------------------------
+2024-10-07 05:53:15,647 - hyper_search - INFO - Epoch: 001 | Train loss: 2.717247 | Val loss: 1.151614 |
+2024-10-07 05:53:16,532 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_055315_1.pth
+2024-10-07 05:53:25,249 - hyper_search - INFO - Loss 0.057117 
+steam_MAPE 39.993172 | electricity_MAPE 0.596108 | compressed_air_MAPE 0.019631 | generator_MAPE 0.403745 | compressor_MAPE 0.267506 | DHS_MAPE 0.393321 | battery_MAPE 0.031794
+2024-10-07 05:56:17,518 - hyper_search - INFO - Epoch: 002 | Train loss: 0.544102 | Val loss: 0.987381 |
+2024-10-07 05:56:18,372 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_055617_2.pth
+2024-10-07 05:56:27,056 - hyper_search - INFO - Loss 0.045072 
+steam_MAPE 38.300545 | electricity_MAPE 0.560414 | compressed_air_MAPE 0.018009 | generator_MAPE 0.298534 | compressor_MAPE 0.082175 | DHS_MAPE 0.334730 | battery_MAPE 0.031815
+2024-10-07 05:59:18,232 - hyper_search - INFO - Epoch: 003 | Train loss: 0.461286 | Val loss: 0.889619 |
+2024-10-07 05:59:19,105 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_055918_3.pth
+2024-10-07 05:59:27,676 - hyper_search - INFO - Loss 0.040971 
+steam_MAPE 7.901156 | electricity_MAPE 0.669098 | compressed_air_MAPE 0.013649 | generator_MAPE 0.285699 | compressor_MAPE 0.151649 | DHS_MAPE 0.292784 | battery_MAPE 0.031955
+2024-10-07 06:02:22,046 - hyper_search - INFO - Epoch: 004 | Train loss: 0.428008 | Val loss: 0.811980 |
+2024-10-07 06:02:22,892 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_060222_4.pth
+2024-10-07 06:02:31,474 - hyper_search - INFO - Loss 0.037954 
+steam_MAPE 14.425280 | electricity_MAPE 1.315038 | compressed_air_MAPE 0.012849 | generator_MAPE 0.266784 | compressor_MAPE 0.131983 | DHS_MAPE 0.266620 | battery_MAPE 0.032088
+2024-10-07 06:05:24,679 - hyper_search - INFO - Epoch: 005 | Train loss: 0.393813 | Val loss: 0.839112 |
+2024-10-07 06:05:24,685 - hyper_search - INFO - *******patience:0*********
+2024-10-07 06:08:15,361 - hyper_search - INFO - Epoch: 006 | Train loss: 0.380278 | Val loss: 0.845271 |
+2024-10-07 06:08:15,376 - hyper_search - INFO - *******patience:1*********
+2024-10-07 06:11:06,103 - hyper_search - INFO - Epoch: 007 | Train loss: 0.368069 | Val loss: 0.867048 |
+2024-10-07 06:11:06,108 - hyper_search - INFO - *******patience:2*********
+2024-10-07 06:13:58,355 - hyper_search - INFO - Epoch: 008 | Train loss: 0.364718 | Val loss: 0.894589 |
+2024-10-07 06:13:58,362 - hyper_search - INFO - *******patience:3*********
+2024-10-07 06:16:49,458 - hyper_search - INFO - Epoch: 009 | Train loss: 0.358544 | Val loss: 0.848835 |
+2024-10-07 06:16:49,465 - hyper_search - INFO - *******patience:4*********
+2024-10-07 06:19:40,552 - hyper_search - INFO - Epoch: 010 | Train loss: 0.349712 | Val loss: 0.837297 |
+2024-10-07 06:19:40,557 - hyper_search - INFO - *******patience:5*********
+2024-10-07 06:22:31,574 - hyper_search - INFO - Epoch: 011 | Train loss: 0.344628 | Val loss: 0.812197 |
+2024-10-07 06:22:31,597 - hyper_search - INFO - *******patience:6*********
+2024-10-07 06:25:24,316 - hyper_search - INFO - Epoch: 012 | Train loss: 0.341346 | Val loss: 0.767867 |
+2024-10-07 06:25:25,169 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_062524_12.pth
+2024-10-07 06:25:33,750 - hyper_search - INFO - Loss 0.035456 
+steam_MAPE 3.547160 | electricity_MAPE 1.574564 | compressed_air_MAPE 0.011089 | generator_MAPE 0.267791 | compressor_MAPE 0.105130 | DHS_MAPE 0.244913 | battery_MAPE 0.032233
+2024-10-07 06:28:26,261 - hyper_search - INFO - Epoch: 013 | Train loss: 0.342277 | Val loss: 0.841163 |
+2024-10-07 06:28:26,267 - hyper_search - INFO - *******patience:0*********
+2024-10-07 06:31:19,696 - hyper_search - INFO - Epoch: 014 | Train loss: 0.337982 | Val loss: 0.827300 |
+2024-10-07 06:31:19,701 - hyper_search - INFO - *******patience:1*********
+2024-10-07 06:34:12,863 - hyper_search - INFO - Epoch: 015 | Train loss: 0.333104 | Val loss: 0.794327 |
+2024-10-07 06:34:12,881 - hyper_search - INFO - *******patience:2*********
+2024-10-07 06:37:05,018 - hyper_search - INFO - Epoch: 016 | Train loss: 0.332171 | Val loss: 0.830383 |
+2024-10-07 06:37:05,024 - hyper_search - INFO - *******patience:3*********
+2024-10-07 06:39:56,024 - hyper_search - INFO - Epoch: 017 | Train loss: 0.330012 | Val loss: 0.813610 |
+2024-10-07 06:39:56,032 - hyper_search - INFO - *******patience:4*********
+2024-10-07 06:42:47,282 - hyper_search - INFO - Epoch: 018 | Train loss: 0.327458 | Val loss: 0.810505 |
+2024-10-07 06:42:47,287 - hyper_search - INFO - *******patience:5*********
+2024-10-07 06:45:39,638 - hyper_search - INFO - Epoch: 019 | Train loss: 0.322241 | Val loss: 0.821175 |
+2024-10-07 06:45:39,643 - hyper_search - INFO - *******patience:6*********
+2024-10-07 06:48:30,733 - hyper_search - INFO - Epoch: 020 | Train loss: 0.321826 | Val loss: 0.781034 |
+2024-10-07 06:48:30,755 - hyper_search - INFO - *******patience:7*********
+2024-10-07 06:48:30,790 - hyper_search - INFO - **************
+2024-10-07 06:48:30,790 - hyper_search - INFO - Iter 8:
+2024-10-07 06:48:30,796 - hyper_search - INFO - Best Loss: 0.5573456883430481
+2024-10-07 06:48:30,796 - hyper_search - INFO - Best lr: 0.0009256818992066885,Best weight_decay_rate: 0.0008580760619921307,Best droprate: 0.44397616269452833, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.013264961159866532, Best epsilon: 0.942201755684853,Best top_k: 6, Best num_per: 4
+2024-10-07 06:48:30,796 - hyper_search - INFO - Now Loss: 0.7810344099998474
+2024-10-07 09:00:53,764 - hyper_search - INFO - Now lr: 0.0008521393381383605,Now weight_decay_rate: 0.001637074694637572,Now droprate: 0.2103996728090174,Now phy_top_type: epsilon,Now graph_type: epsilonNN,Now graph_skip_conn: 0.015636406741193935, Now epsilon: 0.42340148070636974,Now top_k: 5, Now num_per: 4
+2024-10-07 09:00:54,640 - hyper_search - INFO - ------------------------------
+2024-10-07 09:03:34,229 - hyper_search - INFO - Epoch: 001 | Train loss: 0.755043 | Val loss: 1.130886 |
+2024-10-07 09:03:35,105 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_090334_1.pth
+2024-10-07 09:03:43,642 - hyper_search - INFO - Loss 0.053724 
+steam_MAPE 10.663424 | electricity_MAPE 0.478628 | compressed_air_MAPE 0.020664 | generator_MAPE 0.366454 | compressor_MAPE 0.282146 | DHS_MAPE 0.316179 | battery_MAPE 0.012122
+2024-10-07 09:06:30,668 - hyper_search - INFO - Epoch: 002 | Train loss: 0.677114 | Val loss: 1.035626 |
+2024-10-07 09:06:31,513 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_090630_2.pth
+2024-10-07 09:06:40,159 - hyper_search - INFO - Loss 0.044383 
+steam_MAPE 8.985440 | electricity_MAPE 0.623292 | compressed_air_MAPE 0.021613 | generator_MAPE 0.275734 | compressor_MAPE 0.130284 | DHS_MAPE 0.299037 | battery_MAPE 0.013824
+2024-10-07 09:09:31,138 - hyper_search - INFO - Epoch: 003 | Train loss: 0.626861 | Val loss: 0.979497 |
+2024-10-07 09:09:31,998 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_090931_3.pth
+2024-10-07 09:09:40,527 - hyper_search - INFO - Loss 0.042668 
+steam_MAPE 4.876729 | electricity_MAPE 0.810272 | compressed_air_MAPE 0.021593 | generator_MAPE 0.241470 | compressor_MAPE 0.188114 | DHS_MAPE 0.269897 | battery_MAPE 0.014155
+2024-10-07 09:12:32,286 - hyper_search - INFO - Epoch: 004 | Train loss: 0.566098 | Val loss: 0.996416 |
+2024-10-07 09:12:32,291 - hyper_search - INFO - *******patience:0*********
+2024-10-07 09:15:24,467 - hyper_search - INFO - Epoch: 005 | Train loss: 0.506728 | Val loss: 1.019688 |
+2024-10-07 09:15:24,469 - hyper_search - INFO - *******patience:1*********
+2024-10-07 09:18:15,369 - hyper_search - INFO - Epoch: 006 | Train loss: 0.473277 | Val loss: 0.962158 |
+2024-10-07 09:18:16,076 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_091815_6.pth
+2024-10-07 09:18:24,963 - hyper_search - INFO - Loss 0.034284 
+steam_MAPE 4.118491 | electricity_MAPE 1.362332 | compressed_air_MAPE 0.019999 | generator_MAPE 0.273201 | compressor_MAPE 0.097446 | DHS_MAPE 0.211850 | battery_MAPE 0.013237
+2024-10-07 09:21:17,277 - hyper_search - INFO - Epoch: 007 | Train loss: 0.444894 | Val loss: 0.934366 |
+2024-10-07 09:21:18,016 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_092117_7.pth
+2024-10-07 09:21:26,628 - hyper_search - INFO - Loss 0.033050 
+steam_MAPE 4.629898 | electricity_MAPE 1.285751 | compressed_air_MAPE 0.020239 | generator_MAPE 0.248787 | compressor_MAPE 0.111309 | DHS_MAPE 0.195729 | battery_MAPE 0.012192
+2024-10-07 09:24:20,173 - hyper_search - INFO - Epoch: 008 | Train loss: 0.422577 | Val loss: 0.984649 |
+2024-10-07 09:24:20,185 - hyper_search - INFO - *******patience:0*********
+2024-10-07 09:27:12,094 - hyper_search - INFO - Epoch: 009 | Train loss: 0.411522 | Val loss: 0.971717 |
+2024-10-07 09:27:12,100 - hyper_search - INFO - *******patience:1*********
+2024-10-07 09:30:05,431 - hyper_search - INFO - Epoch: 010 | Train loss: 0.386957 | Val loss: 0.922933 |
+2024-10-07 09:30:06,207 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_093005_10.pth
+2024-10-07 09:30:14,960 - hyper_search - INFO - Loss 0.032277 
+steam_MAPE 3.596796 | electricity_MAPE 1.419096 | compressed_air_MAPE 0.020544 | generator_MAPE 0.268332 | compressor_MAPE 0.076513 | DHS_MAPE 0.193958 | battery_MAPE 0.011837
+2024-10-07 09:33:09,290 - hyper_search - INFO - Epoch: 011 | Train loss: 0.381762 | Val loss: 0.910549 |
+2024-10-07 09:33:10,087 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_093309_11.pth
+2024-10-07 09:33:18,747 - hyper_search - INFO - Loss 0.031965 
+steam_MAPE 3.840218 | electricity_MAPE 1.477065 | compressed_air_MAPE 0.020083 | generator_MAPE 0.263339 | compressor_MAPE 0.074116 | DHS_MAPE 0.191037 | battery_MAPE 0.012195
+2024-10-07 09:36:10,389 - hyper_search - INFO - Epoch: 012 | Train loss: 0.376189 | Val loss: 0.936338 |
+2024-10-07 09:36:10,411 - hyper_search - INFO - *******patience:0*********
+2024-10-07 09:39:02,390 - hyper_search - INFO - Epoch: 013 | Train loss: 0.365336 | Val loss: 0.926285 |
+2024-10-07 09:39:02,393 - hyper_search - INFO - *******patience:1*********
+2024-10-07 09:41:53,694 - hyper_search - INFO - Epoch: 014 | Train loss: 0.353411 | Val loss: 0.914797 |
+2024-10-07 09:41:53,702 - hyper_search - INFO - *******patience:2*********
+2024-10-07 09:44:46,151 - hyper_search - INFO - Epoch: 015 | Train loss: 0.344642 | Val loss: 0.927628 |
+2024-10-07 09:44:46,176 - hyper_search - INFO - *******patience:3*********
+2024-10-07 09:47:38,393 - hyper_search - INFO - Epoch: 016 | Train loss: 0.342190 | Val loss: 0.930935 |
+2024-10-07 09:47:38,401 - hyper_search - INFO - *******patience:4*********
+2024-10-07 09:50:29,445 - hyper_search - INFO - Epoch: 017 | Train loss: 0.334462 | Val loss: 0.925432 |
+2024-10-07 09:50:29,451 - hyper_search - INFO - *******patience:5*********
+2024-10-07 09:53:21,077 - hyper_search - INFO - Epoch: 018 | Train loss: 0.332651 | Val loss: 0.910655 |
+2024-10-07 09:53:21,087 - hyper_search - INFO - *******patience:6*********
+2024-10-07 09:56:14,000 - hyper_search - INFO - Epoch: 019 | Train loss: 0.328864 | Val loss: 0.911949 |
+2024-10-07 09:56:14,333 - hyper_search - INFO - *******patience:7*********
+2024-10-07 09:56:14,448 - hyper_search - INFO - **************
+2024-10-07 09:56:14,455 - hyper_search - INFO - Iter 9:
+2024-10-07 09:56:14,562 - hyper_search - INFO - Best Loss: 0.5573456883430481
+2024-10-07 09:56:14,633 - hyper_search - INFO - Best lr: 0.0009256818992066885,Best weight_decay_rate: 0.0008580760619921307,Best droprate: 0.44397616269452833, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.013264961159866532, Best epsilon: 0.942201755684853,Best top_k: 6, Best num_per: 4
+2024-10-07 09:56:14,800 - hyper_search - INFO - Now Loss: 0.9119486808776855
+2024-10-07 09:56:14,868 - hyper_search - INFO - Now lr: 1.0669882710369717e-05,Now weight_decay_rate: 0.0002498531379402823,Now droprate: 0.3845367810994601,Now phy_top_type: KNN,Now graph_type: KNN,Now graph_skip_conn: 0.9263008785133492, Now epsilon: 0.6510770255019446,Now top_k: 9, Now num_per: 9
+2024-10-07 09:56:16,889 - hyper_search - INFO - ------------------------------
+2024-10-07 09:59:11,668 - hyper_search - INFO - Epoch: 001 | Train loss: 0.700904 | Val loss: 1.263331 |
+2024-10-07 09:59:12,429 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_095911_1.pth
+2024-10-07 09:59:21,011 - hyper_search - INFO - Loss 0.058534 
+steam_MAPE 21.107388 | electricity_MAPE 0.845831 | compressed_air_MAPE 0.019327 | generator_MAPE 0.394524 | compressor_MAPE 0.360859 | DHS_MAPE 0.336772 | battery_MAPE 0.013326
+2024-10-07 10:02:15,260 - hyper_search - INFO - Epoch: 002 | Train loss: 0.563660 | Val loss: 1.054215 |
+2024-10-07 10:02:15,995 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_100215_2.pth
+2024-10-07 10:02:25,152 - hyper_search - INFO - Loss 0.040378 
+steam_MAPE 9.241565 | electricity_MAPE 1.375343 | compressed_air_MAPE 0.019455 | generator_MAPE 0.335779 | compressor_MAPE 0.171630 | DHS_MAPE 0.146870 | battery_MAPE 0.011146
+2024-10-07 10:05:17,491 - hyper_search - INFO - Epoch: 003 | Train loss: 0.455970 | Val loss: 1.001349 |
+2024-10-07 10:05:18,230 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_100517_3.pth
+2024-10-07 10:05:27,074 - hyper_search - INFO - Loss 0.036378 
+steam_MAPE 4.071506 | electricity_MAPE 0.914634 | compressed_air_MAPE 0.019437 | generator_MAPE 0.285893 | compressor_MAPE 0.080942 | DHS_MAPE 0.238977 | battery_MAPE 0.012816
+2024-10-07 10:08:18,641 - hyper_search - INFO - Epoch: 004 | Train loss: 0.417466 | Val loss: 0.950661 |
+2024-10-07 10:08:19,392 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_100818_4.pth
+2024-10-07 10:08:28,176 - hyper_search - INFO - Loss 0.032715 
+steam_MAPE 2.236108 | electricity_MAPE 1.382678 | compressed_air_MAPE 0.019961 | generator_MAPE 0.272882 | compressor_MAPE 0.098198 | DHS_MAPE 0.174413 | battery_MAPE 0.011397
+2024-10-07 10:11:20,077 - hyper_search - INFO - Epoch: 005 | Train loss: 0.373897 | Val loss: 0.902398 |
+2024-10-07 10:11:20,989 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_101120_5.pth
+2024-10-07 10:11:29,669 - hyper_search - INFO - Loss 0.032294 
+steam_MAPE 2.017324 | electricity_MAPE 1.556563 | compressed_air_MAPE 0.019731 | generator_MAPE 0.266996 | compressor_MAPE 0.152323 | DHS_MAPE 0.160287 | battery_MAPE 0.011297
+2024-10-07 10:14:21,361 - hyper_search - INFO - Epoch: 006 | Train loss: 0.334985 | Val loss: 0.866691 |
+2024-10-07 10:14:22,079 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_101421_6.pth
+2024-10-07 10:14:30,817 - hyper_search - INFO - Loss 0.032709 
+steam_MAPE 3.454891 | electricity_MAPE 1.609246 | compressed_air_MAPE 0.019881 | generator_MAPE 0.272067 | compressor_MAPE 0.066864 | DHS_MAPE 0.118769 | battery_MAPE 0.011362
+2024-10-07 10:17:23,763 - hyper_search - INFO - Epoch: 007 | Train loss: 0.318814 | Val loss: 0.861577 |
+2024-10-07 10:17:24,512 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_101723_7.pth
+2024-10-07 10:17:33,061 - hyper_search - INFO - Loss 0.031477 
+steam_MAPE 2.624296 | electricity_MAPE 1.625788 | compressed_air_MAPE 0.020355 | generator_MAPE 0.301787 | compressor_MAPE 0.080842 | DHS_MAPE 0.128729 | battery_MAPE 0.011436
+2024-10-07 10:20:25,233 - hyper_search - INFO - Epoch: 008 | Train loss: 0.308671 | Val loss: 0.835388 |
+2024-10-07 10:20:25,993 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_102025_8.pth
+2024-10-07 10:20:34,654 - hyper_search - INFO - Loss 0.030297 
+steam_MAPE 1.149526 | electricity_MAPE 1.598398 | compressed_air_MAPE 0.020175 | generator_MAPE 0.287200 | compressor_MAPE 0.075204 | DHS_MAPE 0.134670 | battery_MAPE 0.011423
+2024-10-07 10:23:26,679 - hyper_search - INFO - Epoch: 009 | Train loss: 0.302988 | Val loss: 0.839426 |
+2024-10-07 10:23:26,688 - hyper_search - INFO - *******patience:0*********
+2024-10-07 10:26:20,399 - hyper_search - INFO - Epoch: 010 | Train loss: 0.295502 | Val loss: 0.842200 |
+2024-10-07 10:26:20,405 - hyper_search - INFO - *******patience:1*********
+2024-10-07 10:29:13,218 - hyper_search - INFO - Epoch: 011 | Train loss: 0.282513 | Val loss: 0.886554 |
+2024-10-07 10:29:13,231 - hyper_search - INFO - *******patience:2*********
+2024-10-07 10:32:06,786 - hyper_search - INFO - Epoch: 012 | Train loss: 0.281962 | Val loss: 0.880826 |
+2024-10-07 10:32:06,789 - hyper_search - INFO - *******patience:3*********
+2024-10-07 10:35:00,264 - hyper_search - INFO - Epoch: 013 | Train loss: 0.274048 | Val loss: 0.829223 |
+2024-10-07 10:35:01,077 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_103500_13.pth
+2024-10-07 10:35:09,674 - hyper_search - INFO - Loss 0.029656 
+steam_MAPE 3.785118 | electricity_MAPE 1.637802 | compressed_air_MAPE 0.019359 | generator_MAPE 0.291242 | compressor_MAPE 0.123424 | DHS_MAPE 0.108047 | battery_MAPE 0.011472
+2024-10-07 10:38:02,508 - hyper_search - INFO - Epoch: 014 | Train loss: 0.270505 | Val loss: 0.834479 |
+2024-10-07 10:38:02,514 - hyper_search - INFO - *******patience:0*********
+2024-10-07 10:40:54,435 - hyper_search - INFO - Epoch: 015 | Train loss: 0.267705 | Val loss: 0.833073 |
+2024-10-07 10:40:54,438 - hyper_search - INFO - *******patience:1*********
+2024-10-07 10:43:46,125 - hyper_search - INFO - Epoch: 016 | Train loss: 0.258691 | Val loss: 0.829277 |
+2024-10-07 10:43:46,132 - hyper_search - INFO - *******patience:2*********
+2024-10-07 10:46:37,453 - hyper_search - INFO - Epoch: 017 | Train loss: 0.260123 | Val loss: 0.815715 |
+2024-10-07 10:46:38,324 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_104637_17.pth
+2024-10-07 10:46:46,919 - hyper_search - INFO - Loss 0.029970 
+steam_MAPE 4.353782 | electricity_MAPE 1.589333 | compressed_air_MAPE 0.019238 | generator_MAPE 0.302567 | compressor_MAPE 0.081606 | DHS_MAPE 0.097983 | battery_MAPE 0.011601
+2024-10-07 10:49:39,165 - hyper_search - INFO - Epoch: 018 | Train loss: 0.256239 | Val loss: 0.815772 |
+2024-10-07 10:49:39,173 - hyper_search - INFO - *******patience:0*********
+2024-10-07 10:52:30,749 - hyper_search - INFO - Epoch: 019 | Train loss: 0.252549 | Val loss: 0.817620 |
+2024-10-07 10:52:30,762 - hyper_search - INFO - *******patience:1*********
+2024-10-07 10:55:21,609 - hyper_search - INFO - Epoch: 020 | Train loss: 0.253037 | Val loss: 0.777128 |
+2024-10-07 10:55:22,357 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_105521_20.pth
+2024-10-07 10:55:30,873 - hyper_search - INFO - Loss 0.028879 
+steam_MAPE 4.735873 | electricity_MAPE 1.527409 | compressed_air_MAPE 0.019508 | generator_MAPE 0.283922 | compressor_MAPE 0.084907 | DHS_MAPE 0.093784 | battery_MAPE 0.011392
+2024-10-07 10:58:23,602 - hyper_search - INFO - Epoch: 021 | Train loss: 0.250911 | Val loss: 0.790955 |
+2024-10-07 10:58:23,608 - hyper_search - INFO - *******patience:0*********
+2024-10-07 11:01:17,725 - hyper_search - INFO - Epoch: 022 | Train loss: 0.248110 | Val loss: 0.743178 |
+2024-10-07 11:01:18,545 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_110117_22.pth
+2024-10-07 11:01:27,086 - hyper_search - INFO - Loss 0.028503 
+steam_MAPE 3.596296 | electricity_MAPE 1.656643 | compressed_air_MAPE 0.017812 | generator_MAPE 0.288559 | compressor_MAPE 0.119926 | DHS_MAPE 0.090593 | battery_MAPE 0.011532
+2024-10-07 11:04:19,002 - hyper_search - INFO - Epoch: 023 | Train loss: 0.248455 | Val loss: 0.742337 |
+2024-10-07 11:04:19,784 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_110419_23.pth
+2024-10-07 11:04:28,503 - hyper_search - INFO - Loss 0.028670 
+steam_MAPE 2.823027 | electricity_MAPE 1.626567 | compressed_air_MAPE 0.017698 | generator_MAPE 0.295753 | compressor_MAPE 0.064410 | DHS_MAPE 0.092683 | battery_MAPE 0.011516
+2024-10-07 11:07:20,962 - hyper_search - INFO - Epoch: 024 | Train loss: 0.251433 | Val loss: 0.787208 |
+2024-10-07 11:07:20,967 - hyper_search - INFO - *******patience:0*********
+2024-10-07 11:10:14,085 - hyper_search - INFO - Epoch: 025 | Train loss: 0.252175 | Val loss: 0.780094 |
+2024-10-07 11:10:14,092 - hyper_search - INFO - *******patience:1*********
+2024-10-07 11:13:05,996 - hyper_search - INFO - Epoch: 026 | Train loss: 0.244196 | Val loss: 0.735398 |
+2024-10-07 11:13:06,778 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_111305_26.pth
+2024-10-07 11:13:15,487 - hyper_search - INFO - Loss 0.028219 
+steam_MAPE 1.651818 | electricity_MAPE 1.641742 | compressed_air_MAPE 0.018128 | generator_MAPE 0.286086 | compressor_MAPE 0.063947 | DHS_MAPE 0.098725 | battery_MAPE 0.011619
+2024-10-07 11:16:06,843 - hyper_search - INFO - Epoch: 027 | Train loss: 0.247169 | Val loss: 0.774345 |
+2024-10-07 11:16:06,863 - hyper_search - INFO - *******patience:0*********
+2024-10-07 11:18:59,360 - hyper_search - INFO - Epoch: 028 | Train loss: 0.246067 | Val loss: 0.783996 |
+2024-10-07 11:18:59,364 - hyper_search - INFO - *******patience:1*********
+2024-10-07 11:21:51,095 - hyper_search - INFO - Epoch: 029 | Train loss: 0.243548 | Val loss: 0.770326 |
+2024-10-07 11:21:51,102 - hyper_search - INFO - *******patience:2*********
+2024-10-07 11:24:43,677 - hyper_search - INFO - Epoch: 030 | Train loss: 0.248103 | Val loss: 0.777099 |
+2024-10-07 11:24:43,799 - hyper_search - INFO - *******patience:3*********
+2024-10-07 11:24:44,435 - hyper_search - INFO - **************
+2024-10-07 11:24:44,436 - hyper_search - INFO - Iter 10:
+2024-10-07 11:24:44,436 - hyper_search - INFO - Best Loss: 0.5573456883430481
+2024-10-07 11:24:44,439 - hyper_search - INFO - Best lr: 0.0009256818992066885,Best weight_decay_rate: 0.0008580760619921307,Best droprate: 0.44397616269452833, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.013264961159866532, Best epsilon: 0.942201755684853,Best top_k: 6, Best num_per: 4
+2024-10-07 11:24:44,443 - hyper_search - INFO - Now Loss: 0.7770988941192627
+2024-10-07 11:24:44,447 - hyper_search - INFO - Now lr: 7.923213310872085e-05,Now weight_decay_rate: 0.0001551744565147388,Now droprate: 0.24832730087930657,Now phy_top_type: KNN,Now graph_type: KNN,Now graph_skip_conn: 0.5912977877077272, Now epsilon: 0.2747217929900642,Now top_k: 6, Now num_per: 4
+2024-10-07 11:24:45,301 - hyper_search - INFO - ------------------------------
+2024-10-07 11:27:38,593 - hyper_search - INFO - Epoch: 001 | Train loss: 1.226892 | Val loss: 1.248579 |
+2024-10-07 11:27:39,356 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_112738_1.pth
+2024-10-07 11:27:47,889 - hyper_search - INFO - Loss 0.059432 
+steam_MAPE 17.703829 | electricity_MAPE 1.103840 | compressed_air_MAPE 0.023256 | generator_MAPE 0.439917 | compressor_MAPE 0.357121 | DHS_MAPE 0.328000 | battery_MAPE 0.019769
+2024-10-07 11:30:44,658 - hyper_search - INFO - Epoch: 002 | Train loss: 0.601828 | Val loss: 0.962928 |
+2024-10-07 11:30:45,618 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_113044_2.pth
+2024-10-07 11:30:54,179 - hyper_search - INFO - Loss 0.044600 
+steam_MAPE 12.417375 | electricity_MAPE 1.308548 | compressed_air_MAPE 0.023306 | generator_MAPE 0.310326 | compressor_MAPE 0.356350 | DHS_MAPE 0.164011 | battery_MAPE 0.015089
+2024-10-07 11:33:49,089 - hyper_search - INFO - Epoch: 003 | Train loss: 0.528402 | Val loss: 0.944247 |
+2024-10-07 11:33:50,051 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_113349_3.pth
+2024-10-07 11:33:58,634 - hyper_search - INFO - Loss 0.042977 
+steam_MAPE 4.513515 | electricity_MAPE 1.325397 | compressed_air_MAPE 0.025199 | generator_MAPE 0.301826 | compressor_MAPE 0.356434 | DHS_MAPE 0.181333 | battery_MAPE 0.013132
+2024-10-07 11:36:52,251 - hyper_search - INFO - Epoch: 004 | Train loss: 0.489871 | Val loss: 0.902643 |
+2024-10-07 11:36:53,592 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_113652_4.pth
+2024-10-07 11:37:02,188 - hyper_search - INFO - Loss 0.042446 
+steam_MAPE 4.316091 | electricity_MAPE 1.294387 | compressed_air_MAPE 0.022438 | generator_MAPE 0.310751 | compressor_MAPE 0.356924 | DHS_MAPE 0.168972 | battery_MAPE 0.013129
+2024-10-07 11:39:57,248 - hyper_search - INFO - Epoch: 005 | Train loss: 0.455761 | Val loss: 0.885000 |
+2024-10-07 11:39:58,031 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_113957_5.pth
+2024-10-07 11:40:06,600 - hyper_search - INFO - Loss 0.039978 
+steam_MAPE 7.125781 | electricity_MAPE 1.241191 | compressed_air_MAPE 0.021869 | generator_MAPE 0.305395 | compressor_MAPE 0.357922 | DHS_MAPE 0.154247 | battery_MAPE 0.011835
+2024-10-07 11:43:01,224 - hyper_search - INFO - Epoch: 006 | Train loss: 0.426928 | Val loss: 0.891589 |
+2024-10-07 11:43:01,229 - hyper_search - INFO - *******patience:0*********
+2024-10-07 11:45:54,912 - hyper_search - INFO - Epoch: 007 | Train loss: 0.410678 | Val loss: 0.919301 |
+2024-10-07 11:45:55,081 - hyper_search - INFO - *******patience:1*********
+2024-10-07 11:48:48,767 - hyper_search - INFO - Epoch: 008 | Train loss: 0.401147 | Val loss: 0.805110 |
+2024-10-07 11:48:50,342 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_114849_8.pth
+2024-10-07 11:48:58,923 - hyper_search - INFO - Loss 0.037181 
+steam_MAPE 6.137337 | electricity_MAPE 1.371097 | compressed_air_MAPE 0.020696 | generator_MAPE 0.256852 | compressor_MAPE 0.357440 | DHS_MAPE 0.119963 | battery_MAPE 0.011841
+2024-10-07 11:51:54,239 - hyper_search - INFO - Epoch: 009 | Train loss: 0.391250 | Val loss: 0.774802 |
+2024-10-07 11:51:54,950 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_115154_9.pth
+2024-10-07 11:52:03,632 - hyper_search - INFO - Loss 0.036526 
+steam_MAPE 5.872358 | electricity_MAPE 1.263697 | compressed_air_MAPE 0.018665 | generator_MAPE 0.279462 | compressor_MAPE 0.356726 | DHS_MAPE 0.137483 | battery_MAPE 0.014477
+2024-10-07 11:54:57,468 - hyper_search - INFO - Epoch: 010 | Train loss: 0.378411 | Val loss: 0.813316 |
+2024-10-07 11:54:57,474 - hyper_search - INFO - *******patience:0*********
+2024-10-07 11:57:51,139 - hyper_search - INFO - Epoch: 011 | Train loss: 0.368207 | Val loss: 0.749456 |
+2024-10-07 11:57:51,904 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_115751_11.pth
+2024-10-07 11:58:00,653 - hyper_search - INFO - Loss 0.035387 
+steam_MAPE 3.731739 | electricity_MAPE 1.465721 | compressed_air_MAPE 0.016395 | generator_MAPE 0.285436 | compressor_MAPE 0.356312 | DHS_MAPE 0.113616 | battery_MAPE 0.011706
+2024-10-07 12:00:58,497 - hyper_search - INFO - Epoch: 012 | Train loss: 0.361370 | Val loss: 0.739469 |
+2024-10-07 12:00:59,258 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_120058_12.pth
+2024-10-07 12:01:08,120 - hyper_search - INFO - Loss 0.034669 
+steam_MAPE 6.552518 | electricity_MAPE 1.468178 | compressed_air_MAPE 0.015556 | generator_MAPE 0.292569 | compressor_MAPE 0.356139 | DHS_MAPE 0.131003 | battery_MAPE 0.011959
+2024-10-07 12:04:02,630 - hyper_search - INFO - Epoch: 013 | Train loss: 0.351489 | Val loss: 0.776188 |
+2024-10-07 12:04:02,638 - hyper_search - INFO - *******patience:0*********
+2024-10-07 12:06:56,587 - hyper_search - INFO - Epoch: 014 | Train loss: 0.342774 | Val loss: 0.715776 |
+2024-10-07 12:06:57,306 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_120656_14.pth
+2024-10-07 12:07:05,930 - hyper_search - INFO - Loss 0.033295 
+steam_MAPE 4.404436 | electricity_MAPE 1.557781 | compressed_air_MAPE 0.012488 | generator_MAPE 0.270666 | compressor_MAPE 0.355973 | DHS_MAPE 0.136891 | battery_MAPE 0.012014
+2024-10-07 12:10:00,071 - hyper_search - INFO - Epoch: 015 | Train loss: 0.320610 | Val loss: 0.646600 |
+2024-10-07 12:10:00,832 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_121000_15.pth
+2024-10-07 12:10:09,465 - hyper_search - INFO - Loss 0.032793 
+steam_MAPE 8.440180 | electricity_MAPE 1.708708 | compressed_air_MAPE 0.011904 | generator_MAPE 0.276089 | compressor_MAPE 0.355999 | DHS_MAPE 0.123207 | battery_MAPE 0.012217
+2024-10-07 12:13:04,693 - hyper_search - INFO - Epoch: 016 | Train loss: 0.314784 | Val loss: 0.743372 |
+2024-10-07 12:13:04,710 - hyper_search - INFO - *******patience:0*********
+2024-10-07 12:16:00,390 - hyper_search - INFO - Epoch: 017 | Train loss: 0.314822 | Val loss: 0.781120 |
+2024-10-07 12:16:00,391 - hyper_search - INFO - *******patience:1*********
+2024-10-07 12:18:54,666 - hyper_search - INFO - Epoch: 018 | Train loss: 0.334995 | Val loss: 0.655859 |
+2024-10-07 12:18:54,672 - hyper_search - INFO - *******patience:2*********
+2024-10-07 12:21:50,593 - hyper_search - INFO - Epoch: 019 | Train loss: 0.282471 | Val loss: 0.718389 |
+2024-10-07 12:21:50,599 - hyper_search - INFO - *******patience:3*********
+2024-10-07 12:24:44,936 - hyper_search - INFO - Epoch: 020 | Train loss: 0.276563 | Val loss: 0.655309 |
+2024-10-07 12:24:44,941 - hyper_search - INFO - *******patience:4*********
+2024-10-07 12:27:38,955 - hyper_search - INFO - Epoch: 021 | Train loss: 0.258531 | Val loss: 0.727709 |
+2024-10-07 12:27:38,960 - hyper_search - INFO - *******patience:5*********
+2024-10-07 12:30:35,041 - hyper_search - INFO - Epoch: 022 | Train loss: 0.251425 | Val loss: 0.657205 |
+2024-10-07 12:30:35,049 - hyper_search - INFO - *******patience:6*********
+2024-10-07 12:33:31,483 - hyper_search - INFO - Epoch: 023 | Train loss: 0.243254 | Val loss: 0.669565 |
+2024-10-07 12:33:31,487 - hyper_search - INFO - *******patience:7*********
+2024-10-07 12:33:32,248 - hyper_search - INFO - **************
+2024-10-07 12:33:32,248 - hyper_search - INFO - Iter 11:
+2024-10-07 12:33:32,252 - hyper_search - INFO - Best Loss: 0.5573456883430481
+2024-10-07 12:33:32,257 - hyper_search - INFO - Best lr: 0.0009256818992066885,Best weight_decay_rate: 0.0008580760619921307,Best droprate: 0.44397616269452833, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.013264961159866532, Best epsilon: 0.942201755684853,Best top_k: 6, Best num_per: 4
+2024-10-07 12:33:32,262 - hyper_search - INFO - Now Loss: 0.669564962387085
+2024-10-07 12:33:32,267 - hyper_search - INFO - Now lr: 0.001,Now weight_decay_rate: 0.01,Now droprate: 0.5,Now phy_top_type: KNN,Now graph_type: epsilonNN,Now graph_skip_conn: 0.0, Now epsilon: 1.0,Now top_k: 10, Now num_per: 1
+2024-10-07 12:33:33,193 - hyper_search - INFO - ------------------------------
+2024-10-07 12:36:26,276 - hyper_search - INFO - Epoch: 001 | Train loss: 1.430202 | Val loss: 1.055514 |
+2024-10-07 12:36:27,035 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_123626_1.pth
+2024-10-07 12:36:35,681 - hyper_search - INFO - Loss 0.049904 
+steam_MAPE 5.779439 | electricity_MAPE 1.284235 | compressed_air_MAPE 0.023796 | generator_MAPE 0.185858 | compressor_MAPE 0.360915 | DHS_MAPE 0.171954 | battery_MAPE 0.015226
+2024-10-07 12:39:30,031 - hyper_search - INFO - Epoch: 002 | Train loss: 0.623487 | Val loss: 0.965749 |
+2024-10-07 12:39:30,805 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_123930_2.pth
+2024-10-07 12:39:39,451 - hyper_search - INFO - Loss 0.042798 
+steam_MAPE 1.761504 | electricity_MAPE 1.418784 | compressed_air_MAPE 0.022806 | generator_MAPE 0.257978 | compressor_MAPE 0.360938 | DHS_MAPE 0.165942 | battery_MAPE 0.013834
+2024-10-07 12:42:33,468 - hyper_search - INFO - Epoch: 003 | Train loss: 0.558729 | Val loss: 0.924846 |
+2024-10-07 12:42:34,206 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_124233_3.pth
+2024-10-07 12:42:43,427 - hyper_search - INFO - Loss 0.041385 
+steam_MAPE 1.672314 | electricity_MAPE 1.518635 | compressed_air_MAPE 0.021901 | generator_MAPE 0.276820 | compressor_MAPE 0.360938 | DHS_MAPE 0.148104 | battery_MAPE 0.014490
+2024-10-07 12:45:37,587 - hyper_search - INFO - Epoch: 004 | Train loss: 0.521140 | Val loss: 0.883449 |
+2024-10-07 12:45:38,958 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_124537_4.pth
+2024-10-07 12:45:47,663 - hyper_search - INFO - Loss 0.040254 
+steam_MAPE 3.487380 | electricity_MAPE 1.459599 | compressed_air_MAPE 0.021176 | generator_MAPE 0.240668 | compressor_MAPE 0.360938 | DHS_MAPE 0.138099 | battery_MAPE 0.012822
+2024-10-07 12:48:40,386 - hyper_search - INFO - Epoch: 005 | Train loss: 0.486117 | Val loss: 0.848172 |
+2024-10-07 12:48:41,133 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_124840_5.pth
+2024-10-07 12:48:49,814 - hyper_search - INFO - Loss 0.039309 
+steam_MAPE 8.108297 | electricity_MAPE 1.566751 | compressed_air_MAPE 0.018345 | generator_MAPE 0.260558 | compressor_MAPE 0.360938 | DHS_MAPE 0.162659 | battery_MAPE 0.011967
+2024-10-07 12:51:43,253 - hyper_search - INFO - Epoch: 006 | Train loss: 0.465608 | Val loss: 0.811094 |
+2024-10-07 12:51:44,830 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_125143_6.pth
+2024-10-07 12:51:53,522 - hyper_search - INFO - Loss 0.038339 
+steam_MAPE 9.337079 | electricity_MAPE 1.554236 | compressed_air_MAPE 0.016164 | generator_MAPE 0.256063 | compressor_MAPE 0.360938 | DHS_MAPE 0.119783 | battery_MAPE 0.012722
+2024-10-07 12:54:48,052 - hyper_search - INFO - Epoch: 007 | Train loss: 0.446986 | Val loss: 0.790072 |
+2024-10-07 12:54:48,788 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_125448_7.pth
+2024-10-07 12:54:57,295 - hyper_search - INFO - Loss 0.037728 
+steam_MAPE 7.550197 | electricity_MAPE 1.545454 | compressed_air_MAPE 0.015541 | generator_MAPE 0.265702 | compressor_MAPE 0.360938 | DHS_MAPE 0.090529 | battery_MAPE 0.011853
+2024-10-07 12:57:52,518 - hyper_search - INFO - Epoch: 008 | Train loss: 0.434028 | Val loss: 0.785116 |
+2024-10-07 12:57:53,252 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_125752_8.pth
+2024-10-07 12:58:01,895 - hyper_search - INFO - Loss 0.037733 
+steam_MAPE 5.144105 | electricity_MAPE 1.598796 | compressed_air_MAPE 0.015854 | generator_MAPE 0.271157 | compressor_MAPE 0.360938 | DHS_MAPE 0.115002 | battery_MAPE 0.012299
+2024-10-07 13:00:58,889 - hyper_search - INFO - Epoch: 009 | Train loss: 0.423748 | Val loss: 0.777365 |
+2024-10-07 13:00:59,694 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_130058_9.pth
+2024-10-07 13:01:08,227 - hyper_search - INFO - Loss 0.037420 
+steam_MAPE 4.208458 | electricity_MAPE 1.640919 | compressed_air_MAPE 0.017351 | generator_MAPE 0.266734 | compressor_MAPE 0.360903 | DHS_MAPE 0.109929 | battery_MAPE 0.012205
+2024-10-07 13:04:03,154 - hyper_search - INFO - Epoch: 010 | Train loss: 0.414356 | Val loss: 0.776317 |
+2024-10-07 13:04:03,905 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_130403_10.pth
+2024-10-07 13:04:12,589 - hyper_search - INFO - Loss 0.037243 
+steam_MAPE 4.160669 | electricity_MAPE 1.664052 | compressed_air_MAPE 0.016984 | generator_MAPE 0.271471 | compressor_MAPE 0.360706 | DHS_MAPE 0.099643 | battery_MAPE 0.012165
+2024-10-07 13:07:06,907 - hyper_search - INFO - Epoch: 011 | Train loss: 0.406954 | Val loss: 0.747511 |
+2024-10-07 13:07:07,653 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_130706_11.pth
+2024-10-07 13:07:16,149 - hyper_search - INFO - Loss 0.036597 
+steam_MAPE 4.167520 | electricity_MAPE 1.712791 | compressed_air_MAPE 0.014831 | generator_MAPE 0.270228 | compressor_MAPE 0.360495 | DHS_MAPE 0.101344 | battery_MAPE 0.012972
+2024-10-07 13:10:09,866 - hyper_search - INFO - Epoch: 012 | Train loss: 0.400590 | Val loss: 0.686290 |
+2024-10-07 13:10:10,673 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_131009_12.pth
+2024-10-07 13:10:19,490 - hyper_search - INFO - Loss 0.034467 
+steam_MAPE 4.470312 | electricity_MAPE 1.695151 | compressed_air_MAPE 0.014328 | generator_MAPE 0.257953 | compressor_MAPE 0.360295 | DHS_MAPE 0.105449 | battery_MAPE 0.012303
+2024-10-07 13:13:13,501 - hyper_search - INFO - Epoch: 013 | Train loss: 0.401424 | Val loss: 0.751761 |
+2024-10-07 13:13:13,521 - hyper_search - INFO - *******patience:0*********
+2024-10-07 13:16:07,968 - hyper_search - INFO - Epoch: 014 | Train loss: 0.396315 | Val loss: 0.767270 |
+2024-10-07 13:16:07,973 - hyper_search - INFO - *******patience:1*********
+2024-10-07 13:19:01,061 - hyper_search - INFO - Epoch: 015 | Train loss: 0.389330 | Val loss: 0.768261 |
+2024-10-07 13:19:01,069 - hyper_search - INFO - *******patience:2*********
+2024-10-07 13:21:54,219 - hyper_search - INFO - Epoch: 016 | Train loss: 0.385587 | Val loss: 0.754636 |
+2024-10-07 13:21:54,254 - hyper_search - INFO - *******patience:3*********
+2024-10-07 13:24:48,093 - hyper_search - INFO - Epoch: 017 | Train loss: 0.381952 | Val loss: 0.713808 |
+2024-10-07 13:24:48,116 - hyper_search - INFO - *******patience:4*********
+2024-10-07 13:27:40,958 - hyper_search - INFO - Epoch: 018 | Train loss: 0.379151 | Val loss: 0.734561 |
+2024-10-07 13:27:40,966 - hyper_search - INFO - *******patience:5*********
+2024-10-07 13:30:35,555 - hyper_search - INFO - Epoch: 019 | Train loss: 0.380204 | Val loss: 0.720820 |
+2024-10-07 13:30:35,571 - hyper_search - INFO - *******patience:6*********
+2024-10-07 13:33:31,234 - hyper_search - INFO - Epoch: 020 | Train loss: 0.378296 | Val loss: 0.675850 |
+2024-10-07 13:33:31,994 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_133331_20.pth
+2024-10-07 13:33:40,541 - hyper_search - INFO - Loss 0.034411 
+steam_MAPE 4.329222 | electricity_MAPE 1.776945 | compressed_air_MAPE 0.012807 | generator_MAPE 0.286311 | compressor_MAPE 0.358928 | DHS_MAPE 0.105315 | battery_MAPE 0.012022
+2024-10-07 13:36:33,865 - hyper_search - INFO - Epoch: 021 | Train loss: 0.371590 | Val loss: 0.738178 |
+2024-10-07 13:36:33,869 - hyper_search - INFO - *******patience:0*********
+2024-10-07 13:39:26,060 - hyper_search - INFO - Epoch: 022 | Train loss: 0.367479 | Val loss: 0.709611 |
+2024-10-07 13:39:26,067 - hyper_search - INFO - *******patience:1*********
+2024-10-07 13:42:18,590 - hyper_search - INFO - Epoch: 023 | Train loss: 0.364884 | Val loss: 0.707390 |
+2024-10-07 13:42:18,597 - hyper_search - INFO - *******patience:2*********
+2024-10-07 13:45:11,021 - hyper_search - INFO - Epoch: 024 | Train loss: 0.360019 | Val loss: 0.729540 |
+2024-10-07 13:45:11,025 - hyper_search - INFO - *******patience:3*********
+2024-10-07 13:48:04,335 - hyper_search - INFO - Epoch: 025 | Train loss: 0.353484 | Val loss: 0.736814 |
+2024-10-07 13:48:04,370 - hyper_search - INFO - *******patience:4*********
+2024-10-07 13:50:58,270 - hyper_search - INFO - Epoch: 026 | Train loss: 0.345175 | Val loss: 0.740379 |
+2024-10-07 13:50:58,276 - hyper_search - INFO - *******patience:5*********
+2024-10-07 13:53:51,745 - hyper_search - INFO - Epoch: 027 | Train loss: 0.334520 | Val loss: 0.662490 |
+2024-10-07 13:53:52,652 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_135351_27.pth
+2024-10-07 13:54:01,110 - hyper_search - INFO - Loss 0.030564 
+steam_MAPE 4.105107 | electricity_MAPE 1.760267 | compressed_air_MAPE 0.013489 | generator_MAPE 0.276797 | compressor_MAPE 0.357633 | DHS_MAPE 0.087347 | battery_MAPE 0.011769
+2024-10-07 13:56:54,250 - hyper_search - INFO - Epoch: 028 | Train loss: 0.330132 | Val loss: 0.621856 |
+2024-10-07 13:56:55,149 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_135654_28.pth
+2024-10-07 13:57:03,780 - hyper_search - INFO - Loss 0.029683 
+steam_MAPE 3.676908 | electricity_MAPE 1.757293 | compressed_air_MAPE 0.013411 | generator_MAPE 0.263581 | compressor_MAPE 0.357559 | DHS_MAPE 0.093222 | battery_MAPE 0.012377
+2024-10-07 13:59:56,368 - hyper_search - INFO - Epoch: 029 | Train loss: 0.311903 | Val loss: 0.687788 |
+2024-10-07 13:59:56,392 - hyper_search - INFO - *******patience:0*********
+2024-10-07 14:02:50,615 - hyper_search - INFO - Epoch: 030 | Train loss: 0.295857 | Val loss: 0.687333 |
+2024-10-07 14:02:50,642 - hyper_search - INFO - *******patience:1*********
+2024-10-07 14:02:51,355 - hyper_search - INFO - **************
+2024-10-07 14:02:51,355 - hyper_search - INFO - Iter 12:
+2024-10-07 14:02:51,358 - hyper_search - INFO - Best Loss: 0.5573456883430481
+2024-10-07 14:02:51,361 - hyper_search - INFO - Best lr: 0.0009256818992066885,Best weight_decay_rate: 0.0008580760619921307,Best droprate: 0.44397616269452833, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.013264961159866532, Best epsilon: 0.942201755684853,Best top_k: 6, Best num_per: 4
+2024-10-07 14:02:51,364 - hyper_search - INFO - Now Loss: 0.6873326301574707
+2024-10-07 14:02:51,369 - hyper_search - INFO - Now lr: 0.001,Now weight_decay_rate: 0.0001,Now droprate: 0.5,Now phy_top_type: KNN,Now graph_type: epsilonNN,Now graph_skip_conn: 1.0, Now epsilon: 1.0,Now top_k: 10, Now num_per: 10
+2024-10-07 14:02:52,191 - hyper_search - INFO - ------------------------------
+2024-10-07 14:05:44,235 - hyper_search - INFO - Epoch: 001 | Train loss: 0.876207 | Val loss: 1.149736 |
+2024-10-07 14:05:45,056 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_140544_1.pth
+2024-10-07 14:05:53,499 - hyper_search - INFO - Loss 0.057172 
+steam_MAPE 7.530441 | electricity_MAPE 0.815895 | compressed_air_MAPE 0.022990 | generator_MAPE 0.395523 | compressor_MAPE 0.357218 | DHS_MAPE 0.346825 | battery_MAPE 0.011329
+2024-10-07 14:08:47,224 - hyper_search - INFO - Epoch: 002 | Train loss: 0.636684 | Val loss: 0.983181 |
+2024-10-07 14:08:48,013 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_140847_2.pth
+2024-10-07 14:08:56,486 - hyper_search - INFO - Loss 0.048525 
+steam_MAPE 3.460132 | electricity_MAPE 0.811398 | compressed_air_MAPE 0.020468 | generator_MAPE 0.304816 | compressor_MAPE 0.357961 | DHS_MAPE 0.225030 | battery_MAPE 0.013292
+2024-10-07 14:11:49,257 - hyper_search - INFO - Epoch: 003 | Train loss: 0.524819 | Val loss: 0.883128 |
+2024-10-07 14:11:50,301 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_141149_3.pth
+2024-10-07 14:11:58,885 - hyper_search - INFO - Loss 0.042274 
+steam_MAPE 0.871595 | electricity_MAPE 1.400965 | compressed_air_MAPE 0.019257 | generator_MAPE 0.268023 | compressor_MAPE 0.360288 | DHS_MAPE 0.130215 | battery_MAPE 0.011495
+2024-10-07 14:14:51,995 - hyper_search - INFO - Epoch: 004 | Train loss: 0.473103 | Val loss: 0.977227 |
+2024-10-07 14:14:52,001 - hyper_search - INFO - *******patience:0*********
+2024-10-07 14:17:45,391 - hyper_search - INFO - Epoch: 005 | Train loss: 0.429850 | Val loss: 0.913132 |
+2024-10-07 14:17:45,398 - hyper_search - INFO - *******patience:1*********
+2024-10-07 14:20:38,583 - hyper_search - INFO - Epoch: 006 | Train loss: 0.409727 | Val loss: 0.855252 |
+2024-10-07 14:20:39,356 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_142038_6.pth
+2024-10-07 14:20:47,824 - hyper_search - INFO - Loss 0.038224 
+steam_MAPE 0.755042 | electricity_MAPE 1.620177 | compressed_air_MAPE 0.022058 | generator_MAPE 0.280236 | compressor_MAPE 0.360058 | DHS_MAPE 0.136333 | battery_MAPE 0.011951
+2024-10-07 14:23:40,926 - hyper_search - INFO - Epoch: 007 | Train loss: 0.389367 | Val loss: 0.833470 |
+2024-10-07 14:23:41,862 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_142340_7.pth
+2024-10-07 14:23:50,524 - hyper_search - INFO - Loss 0.037699 
+steam_MAPE 3.866920 | electricity_MAPE 1.567783 | compressed_air_MAPE 0.021056 | generator_MAPE 0.287317 | compressor_MAPE 0.360938 | DHS_MAPE 0.117892 | battery_MAPE 0.011486
+2024-10-07 14:26:44,302 - hyper_search - INFO - Epoch: 008 | Train loss: 0.360232 | Val loss: 0.812520 |
+2024-10-07 14:26:45,113 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_142644_8.pth
+2024-10-07 14:26:53,764 - hyper_search - INFO - Loss 0.033822 
+steam_MAPE 2.698934 | electricity_MAPE 1.563874 | compressed_air_MAPE 0.020370 | generator_MAPE 0.303977 | compressor_MAPE 0.284708 | DHS_MAPE 0.146714 | battery_MAPE 0.012893
+2024-10-07 14:29:49,116 - hyper_search - INFO - Epoch: 009 | Train loss: 0.355533 | Val loss: 0.822184 |
+2024-10-07 14:29:49,130 - hyper_search - INFO - *******patience:0*********
+2024-10-07 14:32:45,934 - hyper_search - INFO - Epoch: 010 | Train loss: 0.340000 | Val loss: 0.765399 |
+2024-10-07 14:32:46,667 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_143245_10.pth
+2024-10-07 14:32:55,205 - hyper_search - INFO - Loss 0.032643 
+steam_MAPE 3.994736 | electricity_MAPE 1.624538 | compressed_air_MAPE 0.018742 | generator_MAPE 0.270208 | compressor_MAPE 0.301903 | DHS_MAPE 0.140069 | battery_MAPE 0.011520
+2024-10-07 14:35:48,089 - hyper_search - INFO - Epoch: 011 | Train loss: 0.324984 | Val loss: 0.796891 |
+2024-10-07 14:35:48,094 - hyper_search - INFO - *******patience:0*********
+2024-10-07 14:38:42,330 - hyper_search - INFO - Epoch: 012 | Train loss: 0.302688 | Val loss: 0.818181 |
+2024-10-07 14:38:42,361 - hyper_search - INFO - *******patience:1*********
+2024-10-07 14:41:35,329 - hyper_search - INFO - Epoch: 013 | Train loss: 0.292247 | Val loss: 0.785374 |
+2024-10-07 14:41:35,337 - hyper_search - INFO - *******patience:2*********
+2024-10-07 14:44:27,622 - hyper_search - INFO - Epoch: 014 | Train loss: 0.273408 | Val loss: 0.698211 |
+2024-10-07 14:44:28,388 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_144427_14.pth
+2024-10-07 14:44:36,877 - hyper_search - INFO - Loss 0.028500 
+steam_MAPE 3.111192 | electricity_MAPE 1.609100 | compressed_air_MAPE 0.017723 | generator_MAPE 0.304975 | compressor_MAPE 0.202107 | DHS_MAPE 0.135450 | battery_MAPE 0.011897
+2024-10-07 14:47:30,322 - hyper_search - INFO - Epoch: 015 | Train loss: 0.262384 | Val loss: 0.762718 |
+2024-10-07 14:47:30,355 - hyper_search - INFO - *******patience:0*********
+2024-10-07 14:50:25,033 - hyper_search - INFO - Epoch: 016 | Train loss: 0.253813 | Val loss: 0.771696 |
+2024-10-07 14:50:25,035 - hyper_search - INFO - *******patience:1*********
+2024-10-07 14:53:18,933 - hyper_search - INFO - Epoch: 017 | Train loss: 0.248881 | Val loss: 0.749349 |
+2024-10-07 14:53:18,960 - hyper_search - INFO - *******patience:2*********
+2024-10-07 14:56:11,716 - hyper_search - INFO - Epoch: 018 | Train loss: 0.241494 | Val loss: 0.774857 |
+2024-10-07 14:56:11,724 - hyper_search - INFO - *******patience:3*********
+2024-10-07 14:59:05,818 - hyper_search - INFO - Epoch: 019 | Train loss: 0.238624 | Val loss: 0.730593 |
+2024-10-07 14:59:05,826 - hyper_search - INFO - *******patience:4*********
+2024-10-07 15:02:01,183 - hyper_search - INFO - Epoch: 020 | Train loss: 0.232616 | Val loss: 0.759434 |
+2024-10-07 15:02:01,208 - hyper_search - INFO - *******patience:5*********
+2024-10-07 15:04:55,206 - hyper_search - INFO - Epoch: 021 | Train loss: 0.241385 | Val loss: 0.822381 |
+2024-10-07 15:04:55,233 - hyper_search - INFO - *******patience:6*********
+2024-10-07 15:07:48,281 - hyper_search - INFO - Epoch: 022 | Train loss: 0.253934 | Val loss: 0.711631 |
+2024-10-07 15:07:48,293 - hyper_search - INFO - *******patience:7*********
+2024-10-07 15:07:49,053 - hyper_search - INFO - **************
+2024-10-07 15:07:49,053 - hyper_search - INFO - Iter 13:
+2024-10-07 15:07:49,057 - hyper_search - INFO - Best Loss: 0.5573456883430481
+2024-10-07 15:07:49,061 - hyper_search - INFO - Best lr: 0.0009256818992066885,Best weight_decay_rate: 0.0008580760619921307,Best droprate: 0.44397616269452833, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.013264961159866532, Best epsilon: 0.942201755684853,Best top_k: 6, Best num_per: 4
+2024-10-07 15:07:49,061 - hyper_search - INFO - Now Loss: 0.7116314768791199
+2024-10-07 15:07:49,066 - hyper_search - INFO - Now lr: 0.001,Now weight_decay_rate: 0.01,Now droprate: 0.5,Now phy_top_type: KNN,Now graph_type: epsilonNN,Now graph_skip_conn: 0.0, Now epsilon: 0.05966265712078449,Now top_k: 5, Now num_per: 1
+2024-10-07 15:07:49,896 - hyper_search - INFO - ------------------------------
+2024-10-07 15:10:44,591 - hyper_search - INFO - Epoch: 001 | Train loss: 0.864199 | Val loss: 1.012110 |
+2024-10-07 15:10:45,774 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_151044_1.pth
+2024-10-07 15:10:54,258 - hyper_search - INFO - Loss 0.055882 
+steam_MAPE 9.814442 | electricity_MAPE 1.509768 | compressed_air_MAPE 0.019258 | generator_MAPE 0.273017 | compressor_MAPE 0.360938 | DHS_MAPE 0.308782 | battery_MAPE 0.032419
+2024-10-07 15:13:46,965 - hyper_search - INFO - Epoch: 002 | Train loss: 0.693889 | Val loss: 0.941731 |
+2024-10-07 15:13:47,718 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_151346_2.pth
+2024-10-07 15:13:56,387 - hyper_search - INFO - Loss 0.053157 
+steam_MAPE 7.031515 | electricity_MAPE 1.516769 | compressed_air_MAPE 0.019629 | generator_MAPE 0.333648 | compressor_MAPE 0.360938 | DHS_MAPE 0.153590 | battery_MAPE 0.032419
+2024-10-07 15:16:50,171 - hyper_search - INFO - Epoch: 003 | Train loss: 0.606476 | Val loss: 0.792700 |
+2024-10-07 15:16:50,973 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_151650_3.pth
+2024-10-07 15:17:00,176 - hyper_search - INFO - Loss 0.041215 
+steam_MAPE 1.039270 | electricity_MAPE 1.499041 | compressed_air_MAPE 0.017393 | generator_MAPE 0.248489 | compressor_MAPE 0.360938 | DHS_MAPE 0.192649 | battery_MAPE 0.014193
+2024-10-07 15:19:54,618 - hyper_search - INFO - Epoch: 004 | Train loss: 0.538244 | Val loss: 0.773656 |
+2024-10-07 15:19:55,363 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_151954_4.pth
+2024-10-07 15:20:04,042 - hyper_search - INFO - Loss 0.041780 
+steam_MAPE 9.805430 | electricity_MAPE 1.522399 | compressed_air_MAPE 0.017235 | generator_MAPE 0.264622 | compressor_MAPE 0.360938 | DHS_MAPE 0.182613 | battery_MAPE 0.017226
+2024-10-07 15:22:57,185 - hyper_search - INFO - Epoch: 005 | Train loss: 0.495546 | Val loss: 0.720792 |
+2024-10-07 15:22:57,930 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_152257_5.pth
+2024-10-07 15:23:06,659 - hyper_search - INFO - Loss 0.039435 
+steam_MAPE 7.391140 | electricity_MAPE 1.542504 | compressed_air_MAPE 0.016082 | generator_MAPE 0.244283 | compressor_MAPE 0.360938 | DHS_MAPE 0.169687 | battery_MAPE 0.012110
+2024-10-07 15:26:00,004 - hyper_search - INFO - Epoch: 006 | Train loss: 0.462919 | Val loss: 0.758363 |
+2024-10-07 15:26:00,020 - hyper_search - INFO - *******patience:0*********
+2024-10-07 15:28:55,189 - hyper_search - INFO - Epoch: 007 | Train loss: 0.437962 | Val loss: 0.753458 |
+2024-10-07 15:28:55,293 - hyper_search - INFO - *******patience:1*********
+2024-10-07 15:31:52,123 - hyper_search - INFO - Epoch: 008 | Train loss: 0.409005 | Val loss: 0.737477 |
+2024-10-07 15:31:52,133 - hyper_search - INFO - *******patience:2*********
+2024-10-07 15:34:47,217 - hyper_search - INFO - Epoch: 009 | Train loss: 0.386496 | Val loss: 0.752945 |
+2024-10-07 15:34:47,223 - hyper_search - INFO - *******patience:3*********
+2024-10-07 15:37:40,398 - hyper_search - INFO - Epoch: 010 | Train loss: 0.356966 | Val loss: 0.759021 |
+2024-10-07 15:37:40,406 - hyper_search - INFO - *******patience:4*********
+2024-10-07 15:40:34,196 - hyper_search - INFO - Epoch: 011 | Train loss: 0.329842 | Val loss: 0.725786 |
+2024-10-07 15:40:34,205 - hyper_search - INFO - *******patience:5*********
+2024-10-07 15:43:28,881 - hyper_search - INFO - Epoch: 012 | Train loss: 0.320031 | Val loss: 0.742901 |
+2024-10-07 15:43:28,889 - hyper_search - INFO - *******patience:6*********
+2024-10-07 15:46:21,592 - hyper_search - INFO - Epoch: 013 | Train loss: 0.313129 | Val loss: 0.775659 |
+2024-10-07 15:46:21,600 - hyper_search - INFO - *******patience:7*********
+2024-10-07 15:46:22,265 - hyper_search - INFO - **************
+2024-10-07 15:46:22,265 - hyper_search - INFO - Iter 14:
+2024-10-07 15:46:22,268 - hyper_search - INFO - Best Loss: 0.5573456883430481
+2024-10-07 15:46:22,277 - hyper_search - INFO - Best lr: 0.0009256818992066885,Best weight_decay_rate: 0.0008580760619921307,Best droprate: 0.44397616269452833, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.013264961159866532, Best epsilon: 0.942201755684853,Best top_k: 6, Best num_per: 4
+2024-10-07 15:46:22,281 - hyper_search - INFO - Now Loss: 0.7756592631340027
+2024-10-07 15:46:22,286 - hyper_search - INFO - Now lr: 0.001,Now weight_decay_rate: 0.0005800453658822319,Now droprate: 0.5,Now phy_top_type: KNN,Now graph_type: epsilonNN,Now graph_skip_conn: 0.0, Now epsilon: 1.0,Now top_k: 6, Now num_per: 2
+2024-10-07 15:46:23,096 - hyper_search - INFO - ------------------------------
+2024-10-07 15:49:16,192 - hyper_search - INFO - Epoch: 001 | Train loss: 1.812178 | Val loss: 1.040799 |
+2024-10-07 15:49:16,931 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_154916_1.pth
+2024-10-07 15:49:25,561 - hyper_search - INFO - Loss 0.052168 
+steam_MAPE 40.012856 | electricity_MAPE 0.597159 | compressed_air_MAPE 0.019167 | generator_MAPE 0.204826 | compressor_MAPE 0.358727 | DHS_MAPE 0.312955 | battery_MAPE 0.013765
+2024-10-07 15:52:19,713 - hyper_search - INFO - Epoch: 002 | Train loss: 0.616202 | Val loss: 0.893268 |
+2024-10-07 15:52:20,509 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_155219_2.pth
+2024-10-07 15:52:29,217 - hyper_search - INFO - Loss 0.043792 
+steam_MAPE 40.012520 | electricity_MAPE 1.429111 | compressed_air_MAPE 0.014565 | generator_MAPE 0.321040 | compressor_MAPE 0.359776 | DHS_MAPE 0.163555 | battery_MAPE 0.012120
+2024-10-07 15:55:21,825 - hyper_search - INFO - Epoch: 003 | Train loss: 0.510833 | Val loss: 0.861600 |
+2024-10-07 15:55:22,646 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_155521_3.pth
+2024-10-07 15:55:31,331 - hyper_search - INFO - Loss 0.041372 
+steam_MAPE 36.102016 | electricity_MAPE 1.139887 | compressed_air_MAPE 0.016159 | generator_MAPE 0.254964 | compressor_MAPE 0.359972 | DHS_MAPE 0.117333 | battery_MAPE 0.012707
+2024-10-07 15:58:26,344 - hyper_search - INFO - Epoch: 004 | Train loss: 0.467694 | Val loss: 0.919674 |
+2024-10-07 15:58:26,347 - hyper_search - INFO - *******patience:0*********
+2024-10-07 16:01:21,131 - hyper_search - INFO - Epoch: 005 | Train loss: 0.439577 | Val loss: 0.844542 |
+2024-10-07 16:01:21,980 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_160121_5.pth
+2024-10-07 16:01:30,738 - hyper_search - INFO - Loss 0.041154 
+steam_MAPE 4.149050 | electricity_MAPE 1.250950 | compressed_air_MAPE 0.016337 | generator_MAPE 0.264286 | compressor_MAPE 0.359598 | DHS_MAPE 0.111764 | battery_MAPE 0.013825
+2024-10-07 16:04:25,313 - hyper_search - INFO - Epoch: 006 | Train loss: 0.419105 | Val loss: 0.775336 |
+2024-10-07 16:04:26,241 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_160425_6.pth
+2024-10-07 16:04:34,802 - hyper_search - INFO - Loss 0.039714 
+steam_MAPE 8.318385 | electricity_MAPE 1.382173 | compressed_air_MAPE 0.012605 | generator_MAPE 0.288606 | compressor_MAPE 0.359206 | DHS_MAPE 0.088430 | battery_MAPE 0.011906
+2024-10-07 16:07:27,422 - hyper_search - INFO - Epoch: 007 | Train loss: 0.405970 | Val loss: 0.752745 |
+2024-10-07 16:07:28,201 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_160727_7.pth
+2024-10-07 16:07:36,898 - hyper_search - INFO - Loss 0.038901 
+steam_MAPE 4.965743 | electricity_MAPE 1.356473 | compressed_air_MAPE 0.011178 | generator_MAPE 0.275942 | compressor_MAPE 0.358757 | DHS_MAPE 0.088798 | battery_MAPE 0.012514
+2024-10-07 16:10:29,761 - hyper_search - INFO - Epoch: 008 | Train loss: 0.387073 | Val loss: 0.782071 |
+2024-10-07 16:10:29,764 - hyper_search - INFO - *******patience:0*********
+2024-10-07 16:13:24,030 - hyper_search - INFO - Epoch: 009 | Train loss: 0.373076 | Val loss: 0.818945 |
+2024-10-07 16:13:24,038 - hyper_search - INFO - *******patience:1*********
+2024-10-07 16:16:17,404 - hyper_search - INFO - Epoch: 010 | Train loss: 0.358440 | Val loss: 0.798926 |
+2024-10-07 16:16:17,411 - hyper_search - INFO - *******patience:2*********
+2024-10-07 16:19:10,148 - hyper_search - INFO - Epoch: 011 | Train loss: 0.353205 | Val loss: 0.760037 |
+2024-10-07 16:19:10,153 - hyper_search - INFO - *******patience:3*********
+2024-10-07 16:22:03,077 - hyper_search - INFO - Epoch: 012 | Train loss: 0.342277 | Val loss: 0.727621 |
+2024-10-07 16:22:03,837 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_162203_12.pth
+2024-10-07 16:22:12,434 - hyper_search - INFO - Loss 0.035551 
+steam_MAPE 5.481581 | electricity_MAPE 1.547592 | compressed_air_MAPE 0.012497 | generator_MAPE 0.285831 | compressor_MAPE 0.357242 | DHS_MAPE 0.076835 | battery_MAPE 0.011874
+2024-10-07 16:25:07,417 - hyper_search - INFO - Epoch: 013 | Train loss: 0.335592 | Val loss: 0.767543 |
+2024-10-07 16:25:07,423 - hyper_search - INFO - *******patience:0*********
+2024-10-07 16:28:02,125 - hyper_search - INFO - Epoch: 014 | Train loss: 0.329793 | Val loss: 0.717986 |
+2024-10-07 16:28:02,873 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_162802_14.pth
+2024-10-07 16:28:11,490 - hyper_search - INFO - Loss 0.034758 
+steam_MAPE 5.994969 | electricity_MAPE 1.612121 | compressed_air_MAPE 0.012667 | generator_MAPE 0.295144 | compressor_MAPE 0.348756 | DHS_MAPE 0.076160 | battery_MAPE 0.012197
+2024-10-07 16:31:07,505 - hyper_search - INFO - Epoch: 015 | Train loss: 0.323217 | Val loss: 0.749315 |
+2024-10-07 16:31:07,512 - hyper_search - INFO - *******patience:0*********
+2024-10-07 16:34:03,772 - hyper_search - INFO - Epoch: 016 | Train loss: 0.311051 | Val loss: 0.762086 |
+2024-10-07 16:34:03,782 - hyper_search - INFO - *******patience:1*********
+2024-10-07 16:36:57,457 - hyper_search - INFO - Epoch: 017 | Train loss: 0.307182 | Val loss: 0.704096 |
+2024-10-07 16:36:58,199 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_163657_17.pth
+2024-10-07 16:37:06,778 - hyper_search - INFO - Loss 0.032771 
+steam_MAPE 6.423284 | electricity_MAPE 1.696781 | compressed_air_MAPE 0.014420 | generator_MAPE 0.290659 | compressor_MAPE 0.356903 | DHS_MAPE 0.070436 | battery_MAPE 0.011813
+2024-10-07 16:40:02,513 - hyper_search - INFO - Epoch: 018 | Train loss: 0.302096 | Val loss: 0.654911 |
+2024-10-07 16:40:03,322 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_164002_18.pth
+2024-10-07 16:40:12,062 - hyper_search - INFO - Loss 0.031877 
+steam_MAPE 6.153827 | electricity_MAPE 1.600680 | compressed_air_MAPE 0.013547 | generator_MAPE 0.283046 | compressor_MAPE 0.356927 | DHS_MAPE 0.065794 | battery_MAPE 0.011984
+2024-10-07 16:43:05,415 - hyper_search - INFO - Epoch: 019 | Train loss: 0.296063 | Val loss: 0.689796 |
+2024-10-07 16:43:05,424 - hyper_search - INFO - *******patience:0*********
+2024-10-07 16:45:59,328 - hyper_search - INFO - Epoch: 020 | Train loss: 0.296199 | Val loss: 0.691597 |
+2024-10-07 16:45:59,392 - hyper_search - INFO - *******patience:1*********
+2024-10-07 16:48:52,443 - hyper_search - INFO - Epoch: 021 | Train loss: 0.296916 | Val loss: 0.697863 |
+2024-10-07 16:48:52,459 - hyper_search - INFO - *******patience:2*********
+2024-10-07 16:51:45,602 - hyper_search - INFO - Epoch: 022 | Train loss: 0.289051 | Val loss: 0.718194 |
+2024-10-07 16:51:45,624 - hyper_search - INFO - *******patience:3*********
+2024-10-07 16:54:40,750 - hyper_search - INFO - Epoch: 023 | Train loss: 0.277375 | Val loss: 0.648535 |
+2024-10-07 16:54:41,577 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_165440_23.pth
+2024-10-07 16:54:50,223 - hyper_search - INFO - Loss 0.024657 
+steam_MAPE 9.136337 | electricity_MAPE 1.635306 | compressed_air_MAPE 0.012876 | generator_MAPE 0.287011 | compressor_MAPE 0.140850 | DHS_MAPE 0.100400 | battery_MAPE 0.011941
+2024-10-07 16:57:43,802 - hyper_search - INFO - Epoch: 024 | Train loss: 0.233131 | Val loss: 0.669689 |
+2024-10-07 16:57:43,804 - hyper_search - INFO - *******patience:0*********
+2024-10-07 17:00:39,314 - hyper_search - INFO - Epoch: 025 | Train loss: 0.229105 | Val loss: 0.692198 |
+2024-10-07 17:00:39,320 - hyper_search - INFO - *******patience:1*********
+2024-10-07 17:03:33,545 - hyper_search - INFO - Epoch: 026 | Train loss: 0.219994 | Val loss: 0.673544 |
+2024-10-07 17:03:33,553 - hyper_search - INFO - *******patience:2*********
+2024-10-07 17:06:28,636 - hyper_search - INFO - Epoch: 027 | Train loss: 0.220084 | Val loss: 0.699092 |
+2024-10-07 17:06:28,659 - hyper_search - INFO - *******patience:3*********
+2024-10-07 17:09:22,230 - hyper_search - INFO - Epoch: 028 | Train loss: 0.216697 | Val loss: 0.688229 |
+2024-10-07 17:09:22,246 - hyper_search - INFO - *******patience:4*********
+2024-10-07 17:12:15,597 - hyper_search - INFO - Epoch: 029 | Train loss: 0.216744 | Val loss: 0.687025 |
+2024-10-07 17:12:15,599 - hyper_search - INFO - *******patience:5*********
+2024-10-07 17:15:10,144 - hyper_search - INFO - Epoch: 030 | Train loss: 0.216090 | Val loss: 0.695593 |
+2024-10-07 17:15:10,155 - hyper_search - INFO - *******patience:6*********
+2024-10-07 17:15:10,959 - hyper_search - INFO - **************
+2024-10-07 17:15:10,960 - hyper_search - INFO - Iter 15:
+2024-10-07 17:15:10,970 - hyper_search - INFO - Best Loss: 0.5573456883430481
+2024-10-07 17:15:10,975 - hyper_search - INFO - Best lr: 0.0009256818992066885,Best weight_decay_rate: 0.0008580760619921307,Best droprate: 0.44397616269452833, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.013264961159866532, Best epsilon: 0.942201755684853,Best top_k: 6, Best num_per: 4
+2024-10-07 17:15:10,978 - hyper_search - INFO - Now Loss: 0.6955934762954712
+2024-10-07 17:15:10,983 - hyper_search - INFO - Now lr: 0.001,Now weight_decay_rate: 0.0006431194755929903,Now droprate: 0.41348362015391604,Now phy_top_type: epsilon,Now graph_type: epsilonNN,Now graph_skip_conn: 0.3535042739456875, Now epsilon: 0.942196655817746,Now top_k: 7, Now num_per: 5
+2024-10-07 17:15:11,781 - hyper_search - INFO - ------------------------------
+2024-10-07 17:18:04,675 - hyper_search - INFO - Epoch: 001 | Train loss: 0.862787 | Val loss: 0.966556 |
+2024-10-07 17:18:05,548 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_171804_1.pth
+2024-10-07 17:18:14,130 - hyper_search - INFO - Loss 0.048572 
+steam_MAPE 27.341013 | electricity_MAPE 1.391817 | compressed_air_MAPE 0.016397 | generator_MAPE 0.243250 | compressor_MAPE 0.360938 | DHS_MAPE 0.246722 | battery_MAPE 0.031799
+2024-10-07 17:21:07,219 - hyper_search - INFO - Epoch: 002 | Train loss: 0.656046 | Val loss: 0.929524 |
+2024-10-07 17:21:08,018 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_172107_2.pth
+2024-10-07 17:21:16,657 - hyper_search - INFO - Loss 0.046761 
+steam_MAPE 0.809202 | electricity_MAPE 1.561484 | compressed_air_MAPE 0.018558 | generator_MAPE 0.204222 | compressor_MAPE 0.360938 | DHS_MAPE 0.134373 | battery_MAPE 0.031783
+2024-10-07 17:24:10,347 - hyper_search - INFO - Epoch: 003 | Train loss: 0.596385 | Val loss: 0.896992 |
+2024-10-07 17:24:11,142 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_172410_3.pth
+2024-10-07 17:24:19,833 - hyper_search - INFO - Loss 0.046146 
+steam_MAPE 5.632195 | electricity_MAPE 1.795604 | compressed_air_MAPE 0.018820 | generator_MAPE 0.246982 | compressor_MAPE 0.360938 | DHS_MAPE 0.132670 | battery_MAPE 0.032269
+2024-10-07 17:27:13,574 - hyper_search - INFO - Epoch: 004 | Train loss: 0.550540 | Val loss: 0.801770 |
+2024-10-07 17:27:14,481 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_172713_4.pth
+2024-10-07 17:27:23,217 - hyper_search - INFO - Loss 0.039317 
+steam_MAPE 0.643218 | electricity_MAPE 1.696529 | compressed_air_MAPE 0.018682 | generator_MAPE 0.187086 | compressor_MAPE 0.360938 | DHS_MAPE 0.123087 | battery_MAPE 0.016687
+2024-10-07 17:30:18,993 - hyper_search - INFO - Epoch: 005 | Train loss: 0.521567 | Val loss: 0.812565 |
+2024-10-07 17:30:18,998 - hyper_search - INFO - *******patience:0*********
+2024-10-07 17:33:14,499 - hyper_search - INFO - Epoch: 006 | Train loss: 0.494817 | Val loss: 0.812392 |
+2024-10-07 17:33:14,507 - hyper_search - INFO - *******patience:1*********
+2024-10-07 17:36:09,089 - hyper_search - INFO - Epoch: 007 | Train loss: 0.468489 | Val loss: 0.807930 |
+2024-10-07 17:36:09,095 - hyper_search - INFO - *******patience:2*********
+2024-10-07 17:39:02,976 - hyper_search - INFO - Epoch: 008 | Train loss: 0.440549 | Val loss: 0.766499 |
+2024-10-07 17:39:03,748 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_173902_8.pth
+2024-10-07 17:39:12,367 - hyper_search - INFO - Loss 0.036887 
+steam_MAPE 3.858130 | electricity_MAPE 1.702797 | compressed_air_MAPE 0.015605 | generator_MAPE 0.273691 | compressor_MAPE 0.360938 | DHS_MAPE 0.122465 | battery_MAPE 0.012204
+2024-10-07 17:42:06,134 - hyper_search - INFO - Epoch: 009 | Train loss: 0.423059 | Val loss: 0.823048 |
+2024-10-07 17:42:06,144 - hyper_search - INFO - *******patience:0*********
+2024-10-07 17:44:59,916 - hyper_search - INFO - Epoch: 010 | Train loss: 0.415756 | Val loss: 0.812910 |
+2024-10-07 17:44:59,926 - hyper_search - INFO - *******patience:1*********
+2024-10-07 17:47:53,718 - hyper_search - INFO - Epoch: 011 | Train loss: 0.409968 | Val loss: 0.854029 |
+2024-10-07 17:47:53,741 - hyper_search - INFO - *******patience:2*********
+2024-10-07 17:50:47,696 - hyper_search - INFO - Epoch: 012 | Train loss: 0.404598 | Val loss: 0.744140 |
+2024-10-07 17:50:48,439 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_175047_12.pth
+2024-10-07 17:50:57,016 - hyper_search - INFO - Loss 0.037338 
+steam_MAPE 3.659486 | electricity_MAPE 1.617833 | compressed_air_MAPE 0.015799 | generator_MAPE 0.236258 | compressor_MAPE 0.360938 | DHS_MAPE 0.131918 | battery_MAPE 0.012230
+2024-10-07 17:53:52,760 - hyper_search - INFO - Epoch: 013 | Train loss: 0.402422 | Val loss: 0.886574 |
+2024-10-07 17:53:52,777 - hyper_search - INFO - *******patience:0*********
+2024-10-07 17:56:46,984 - hyper_search - INFO - Epoch: 014 | Train loss: 0.396528 | Val loss: 0.766325 |
+2024-10-07 17:56:46,993 - hyper_search - INFO - *******patience:1*********
+2024-10-07 17:59:41,954 - hyper_search - INFO - Epoch: 015 | Train loss: 0.388356 | Val loss: 0.817453 |
+2024-10-07 17:59:41,973 - hyper_search - INFO - *******patience:2*********
+2024-10-07 18:02:38,409 - hyper_search - INFO - Epoch: 016 | Train loss: 0.361170 | Val loss: 0.749757 |
+2024-10-07 18:02:38,425 - hyper_search - INFO - *******patience:3*********
+2024-10-07 18:05:31,053 - hyper_search - INFO - Epoch: 017 | Train loss: 0.349548 | Val loss: 0.796415 |
+2024-10-07 18:05:31,063 - hyper_search - INFO - *******patience:4*********
+2024-10-07 18:08:28,065 - hyper_search - INFO - Epoch: 018 | Train loss: 0.344913 | Val loss: 0.687068 |
+2024-10-07 18:08:28,828 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_180828_18.pth
+2024-10-07 18:08:37,393 - hyper_search - INFO - Loss 0.033071 
+steam_MAPE 5.109294 | electricity_MAPE 1.693848 | compressed_air_MAPE 0.014542 | generator_MAPE 0.269481 | compressor_MAPE 0.360938 | DHS_MAPE 0.120626 | battery_MAPE 0.012095
+2024-10-07 18:11:31,620 - hyper_search - INFO - Epoch: 019 | Train loss: 0.341172 | Val loss: 0.708475 |
+2024-10-07 18:11:31,627 - hyper_search - INFO - *******patience:0*********
+2024-10-07 18:14:25,693 - hyper_search - INFO - Epoch: 020 | Train loss: 0.338069 | Val loss: 0.702965 |
+2024-10-07 18:14:25,703 - hyper_search - INFO - *******patience:1*********
+2024-10-07 18:17:19,994 - hyper_search - INFO - Epoch: 021 | Train loss: 0.334782 | Val loss: 0.748699 |
+2024-10-07 18:17:20,018 - hyper_search - INFO - *******patience:2*********
+2024-10-07 18:20:15,411 - hyper_search - INFO - Epoch: 022 | Train loss: 0.332167 | Val loss: 0.668611 |
+2024-10-07 18:20:16,210 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_182015_22.pth
+2024-10-07 18:20:25,009 - hyper_search - INFO - Loss 0.032076 
+steam_MAPE 2.923747 | electricity_MAPE 1.728681 | compressed_air_MAPE 0.014884 | generator_MAPE 0.279148 | compressor_MAPE 0.360938 | DHS_MAPE 0.121758 | battery_MAPE 0.012542
+2024-10-07 18:23:19,069 - hyper_search - INFO - Epoch: 023 | Train loss: 0.338853 | Val loss: 0.753196 |
+2024-10-07 18:23:19,078 - hyper_search - INFO - *******patience:0*********
+2024-10-07 18:26:12,052 - hyper_search - INFO - Epoch: 024 | Train loss: 0.330822 | Val loss: 0.659075 |
+2024-10-07 18:26:13,054 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_182612_24.pth
+2024-10-07 18:26:21,651 - hyper_search - INFO - Loss 0.033313 
+steam_MAPE 5.159284 | electricity_MAPE 1.640291 | compressed_air_MAPE 0.014013 | generator_MAPE 0.287700 | compressor_MAPE 0.360938 | DHS_MAPE 0.125722 | battery_MAPE 0.012113
+2024-10-07 18:29:17,062 - hyper_search - INFO - Epoch: 025 | Train loss: 0.331886 | Val loss: 0.602311 |
+2024-10-07 18:29:17,854 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_182917_25.pth
+2024-10-07 18:29:26,473 - hyper_search - INFO - Loss 0.032137 
+steam_MAPE 5.016809 | electricity_MAPE 1.682685 | compressed_air_MAPE 0.013991 | generator_MAPE 0.278923 | compressor_MAPE 0.360938 | DHS_MAPE 0.099450 | battery_MAPE 0.012057
+2024-10-07 18:32:22,058 - hyper_search - INFO - Epoch: 026 | Train loss: 0.332579 | Val loss: 0.627490 |
+2024-10-07 18:32:22,075 - hyper_search - INFO - *******patience:0*********
+2024-10-07 18:35:17,033 - hyper_search - INFO - Epoch: 027 | Train loss: 0.326425 | Val loss: 0.599913 |
+2024-10-07 18:35:17,857 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_183517_27.pth
+2024-10-07 18:35:26,393 - hyper_search - INFO - Loss 0.031271 
+steam_MAPE 3.015475 | electricity_MAPE 1.597996 | compressed_air_MAPE 0.010977 | generator_MAPE 0.283399 | compressor_MAPE 0.360938 | DHS_MAPE 0.108676 | battery_MAPE 0.011713
+2024-10-07 18:38:19,199 - hyper_search - INFO - Epoch: 028 | Train loss: 0.323398 | Val loss: 0.664573 |
+2024-10-07 18:38:19,410 - hyper_search - INFO - *******patience:0*********
+2024-10-07 18:41:13,976 - hyper_search - INFO - Epoch: 029 | Train loss: 0.324820 | Val loss: 0.602202 |
+2024-10-07 18:41:13,990 - hyper_search - INFO - *******patience:1*********
+2024-10-07 18:44:06,935 - hyper_search - INFO - Epoch: 030 | Train loss: 0.330254 | Val loss: 0.622990 |
+2024-10-07 18:44:06,943 - hyper_search - INFO - *******patience:2*********
+2024-10-07 18:44:07,522 - hyper_search - INFO - **************
+2024-10-07 18:44:07,522 - hyper_search - INFO - Iter 16:
+2024-10-07 18:44:07,534 - hyper_search - INFO - Best Loss: 0.5573456883430481
+2024-10-07 18:44:07,544 - hyper_search - INFO - Best lr: 0.0009256818992066885,Best weight_decay_rate: 0.0008580760619921307,Best droprate: 0.44397616269452833, Best phy_top_type: KNN,Best graph_type: epsilonNN,Best graph_skip_conn: 0.013264961159866532, Best epsilon: 0.942201755684853,Best top_k: 6, Best num_per: 4
+2024-10-07 18:44:07,548 - hyper_search - INFO - Now Loss: 0.6229904294013977
+2024-10-07 18:44:07,556 - hyper_search - INFO - Now lr: 0.001,Now weight_decay_rate: 0.01,Now droprate: 0.39508344404216456,Now phy_top_type: KNN,Now graph_type: epsilonNN,Now graph_skip_conn: 1.0, Now epsilon: 1.0,Now top_k: 10, Now num_per: 10
+2024-10-07 18:44:08,398 - hyper_search - INFO - ------------------------------
+2024-10-07 18:49:19,095 - hyper_search - INFO - Epoch: 001 | Train loss: 7.860820 | Val loss: 1.047222 |
+2024-10-07 18:49:19,851 - hyper_search - INFO - Model saved at hyper_search/checkpoint/model_epoch_20241007_184919_1.pth
+2024-10-07 18:49:29,828 - hyper_search - INFO - Loss 0.051996 
+steam_MAPE 40.005119 | electricity_MAPE 1.686809 | compressed_air_MAPE 0.027175 | generator_MAPE 0.217789 | compressor_MAPE 0.356253 | DHS_MAPE 0.353356 | battery_MAPE 0.018821

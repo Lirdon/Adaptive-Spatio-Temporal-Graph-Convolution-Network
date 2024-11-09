@@ -1,0 +1,2 @@
+2024-10-04 16:58:46,619 - test - INFO - Loss 0.036282 
+steam_MAPE 0.982594 | electricity_MAPE 1.732245 | compressed_air_MAPE 0.016558 | generator_MAPE 0.323770 | compressor_MAPE 0.360068 | DHS_MAPE 0.144060 | battery_MAPE 0.011800

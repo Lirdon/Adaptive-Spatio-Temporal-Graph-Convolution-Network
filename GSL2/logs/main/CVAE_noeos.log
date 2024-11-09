@@ -1,0 +1,22 @@
+2024-10-07 22:36:34,105 - main - INFO - Epoch: 001 | Train loss: 1.307313 | Val loss: 1.349729 |
+2024-10-07 22:36:34,781 - main - INFO - Model saved at checkpoint/model_epoch_20241007_223634_1.pth
+2024-10-07 22:40:54,413 - main - INFO - Epoch: 002 | Train loss: 1.075566 | Val loss: 1.330521 |
+2024-10-07 22:40:55,064 - main - INFO - Model saved at checkpoint/model_epoch_20241007_224054_2.pth
+2024-10-07 22:45:12,414 - main - INFO - Epoch: 003 | Train loss: 0.995647 | Val loss: 1.292636 |
+2024-10-07 22:45:13,167 - main - INFO - Model saved at checkpoint/model_epoch_20241007_224512_3.pth
+2024-10-07 22:49:32,844 - main - INFO - Epoch: 004 | Train loss: 0.943385 | Val loss: 1.278437 |
+2024-10-07 22:49:33,510 - main - INFO - Model saved at checkpoint/model_epoch_20241007_224932_4.pth
+2024-10-07 22:53:49,674 - main - INFO - Epoch: 005 | Train loss: 0.913253 | Val loss: 1.265379 |
+2024-10-07 22:53:50,303 - main - INFO - Model saved at checkpoint/model_epoch_20241007_225349_5.pth
+2024-10-07 22:58:06,207 - main - INFO - Epoch: 006 | Train loss: 0.890505 | Val loss: 1.266090 |
+2024-10-07 22:58:06,218 - main - INFO - *******patience:0*********
+2024-10-07 23:02:28,481 - main - INFO - Epoch: 007 | Train loss: 0.873351 | Val loss: 1.271567 |
+2024-10-07 23:02:28,484 - main - INFO - *******patience:1*********
+2024-10-07 23:06:49,009 - main - INFO - Epoch: 008 | Train loss: 0.848053 | Val loss: 1.260107 |
+2024-10-07 23:06:49,638 - main - INFO - Model saved at checkpoint/model_epoch_20241007_230649_8.pth
+2024-10-07 23:11:13,266 - main - INFO - Epoch: 009 | Train loss: 0.838786 | Val loss: 1.253886 |
+2024-10-07 23:11:13,886 - main - INFO - Model saved at checkpoint/model_epoch_20241007_231113_9.pth
+2024-10-07 23:15:33,370 - main - INFO - Epoch: 010 | Train loss: 0.820511 | Val loss: 1.246854 |
+2024-10-07 23:15:34,068 - main - INFO - Model saved at checkpoint/model_epoch_20241007_231533_10.pth
+2024-10-07 23:15:50,521 - main - INFO - Loss 0.057570 
+steam_MAPE 37.670708 | electricity_MAPE 960.862671 | compressed_air_MAPE 0.029157 | generator_MAPE 1.136224 | compressor_MAPE 3560025108774912.000000 | DHS_MAPE 1.891118 | battery_MAPE 0.032041

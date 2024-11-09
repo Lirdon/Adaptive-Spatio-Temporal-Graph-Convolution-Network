@@ -1,0 +1,32 @@
+2024-10-05 12:20:32,273 - main - INFO - Epoch: 001 | Train loss: 0.529190 | Val loss: 0.373725 |
+2024-10-05 12:20:32,780 - main - INFO - Model saved at checkpoint/model_epoch_20241005_122032_1.pth
+2024-10-05 12:26:05,773 - main - INFO - Epoch: 002 | Train loss: 0.366181 | Val loss: 0.313044 |
+2024-10-05 12:26:06,272 - main - INFO - Model saved at checkpoint/model_epoch_20241005_122605_2.pth
+2024-10-05 12:31:40,813 - main - INFO - Epoch: 003 | Train loss: 0.327959 | Val loss: 0.277246 |
+2024-10-05 12:31:41,353 - main - INFO - Model saved at checkpoint/model_epoch_20241005_123140_3.pth
+2024-10-05 12:37:19,468 - main - INFO - Epoch: 004 | Train loss: 0.305509 | Val loss: 0.261146 |
+2024-10-05 12:37:19,959 - main - INFO - Model saved at checkpoint/model_epoch_20241005_123719_4.pth
+2024-10-05 12:43:32,533 - main - INFO - Epoch: 005 | Train loss: 0.289572 | Val loss: 0.252061 |
+2024-10-05 12:43:33,040 - main - INFO - Model saved at checkpoint/model_epoch_20241005_124332_5.pth
+2024-10-05 12:49:17,827 - main - INFO - Epoch: 006 | Train loss: 0.279639 | Val loss: 0.249115 |
+2024-10-05 12:49:18,324 - main - INFO - Model saved at checkpoint/model_epoch_20241005_124917_6.pth
+2024-10-05 12:55:11,016 - main - INFO - Epoch: 007 | Train loss: 0.273099 | Val loss: 0.250936 |
+2024-10-05 12:55:11,019 - main - INFO - *******patience:0*********
+2024-10-05 13:01:04,501 - main - INFO - Epoch: 008 | Train loss: 0.269617 | Val loss: 0.250577 |
+2024-10-05 13:01:04,506 - main - INFO - *******patience:1*********
+2024-10-05 13:07:01,760 - main - INFO - Epoch: 009 | Train loss: 0.271588 | Val loss: 0.250568 |
+2024-10-05 13:07:01,791 - main - INFO - *******patience:2*********
+2024-10-05 13:13:08,432 - main - INFO - Epoch: 010 | Train loss: 0.269212 | Val loss: 0.250188 |
+2024-10-05 13:13:08,451 - main - INFO - *******patience:3*********
+2024-10-05 13:18:59,288 - main - INFO - Epoch: 011 | Train loss: 0.267156 | Val loss: 0.247305 |
+2024-10-05 13:18:59,798 - main - INFO - Model saved at checkpoint/model_epoch_20241005_131859_11.pth
+2024-10-05 13:24:58,873 - main - INFO - Epoch: 012 | Train loss: 0.267274 | Val loss: 0.247247 |
+2024-10-05 13:24:59,498 - main - INFO - Model saved at checkpoint/model_epoch_20241005_132458_12.pth
+2024-10-05 13:30:53,595 - main - INFO - Epoch: 013 | Train loss: 0.264904 | Val loss: 0.246051 |
+2024-10-05 13:30:54,126 - main - INFO - Model saved at checkpoint/model_epoch_20241005_133053_13.pth
+2024-10-05 13:36:51,539 - main - INFO - Epoch: 014 | Train loss: 0.260420 | Val loss: 0.245659 |
+2024-10-05 13:36:52,038 - main - INFO - Model saved at checkpoint/model_epoch_20241005_133651_14.pth
+2024-10-05 13:42:47,873 - main - INFO - Epoch: 015 | Train loss: 0.258771 | Val loss: 0.249381 |
+2024-10-05 13:42:47,880 - main - INFO - *******patience:0*********
+2024-10-05 13:43:06,981 - main - INFO - Loss 0.032657 
+steam_MAPE 0.142905 | electricity_MAPE 1.791995 | compressed_air_MAPE 0.273991 | generator_MAPE 0.003557 | compressor_MAPE 0.002668
