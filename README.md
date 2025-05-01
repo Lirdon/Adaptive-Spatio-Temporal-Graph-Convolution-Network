@@ -27,7 +27,7 @@ The detailed research paper describing this model, its architecture, and applica
 1. **Clone the repository**: Clone this repository to your local machine by running the following command:
 
    ```bash
-   git clone https://github.com/Lirdon/Structure_Optimized_Temporal_Adapted_Graph_Learning.git
+   git clone https://github.com/Lirdon/Adaptive-Spatio-Temporal-Graph-Convolution-Network.git
 2. **Run the Model**: To start the model, simply run main.py:
    ```bash
    python main.py
